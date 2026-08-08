@@ -1,0 +1,9 @@
+langchain
+langgraph
+langchain-groq
+mcp[cli]
+pandas
+numpy
+scikit-learn
+matplotlib
+gradio

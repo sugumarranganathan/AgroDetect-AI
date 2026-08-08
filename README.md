@@ -174,10 +174,6 @@ AgroDetect AI currently uses **7 focused agents**.
                                                   report
   -----------------------------------------------------------------------
 
-The project deliberately uses a smaller number of focused agents rather
-than a large 16-agent architecture.
-
-------------------------------------------------------------------------
 
 # 🔌 Why MCP Is Used
 

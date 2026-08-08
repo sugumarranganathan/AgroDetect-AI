@@ -2,6 +2,8 @@
 
 ## MCP-Powered Autonomous Agricultural Intelligence & Root-Cause Analysis
 
+https://colab.research.google.com/drive/1Hj7lOTKhNvn_3UcpXl4U7s_RSONRIn--#scrollTo=pPJ30VpmxSk_
+
 AgroDetect AI is an autonomous agricultural data-intelligence system
 that analyzes crop data and answers natural-language questions through a
 multi-agent workflow.

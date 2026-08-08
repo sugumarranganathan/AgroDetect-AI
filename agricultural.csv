@@ -1,0 +1,1201 @@
+Region,Crop,Soil_Type,Irrigation_Type,Rainfall_mm,Temperature_C,Humidity_Percent,Soil_Moisture_Percent,Fertilizer_kg_per_hectare,Irrigation_Hours,Pest_Level,Crop_Yield_Tons_per_Hectare
+Maharashtra,Cotton,Red Soil,Rainfed,411.1,30.5,77.8,35.2,128.2,7.7,2.9,3.81
+Punjab,Cotton,Loamy,Rainfed,800.4,30.4,67.8,55.3,78.5,5.2,4.8,5.43
+Andhra Pradesh,Cotton,Sandy,Drip,693.4,28.1,51.1,37.7,85.8,7.2,6.8,4.54
+Punjab,Sugarcane,Loamy,Rainfed,1103.4,28.7,65.1,49.4,102.4,3.1,2.0,6.55
+Punjab,Sugarcane,Red Soil,Rainfed,911.5,28.9,91.2,56.5,106.6,9.7,2.3,6.35
+Karnataka,Wheat,Clay,Sprinkler,651.1,25.4,78.3,46.1,113.5,4.1,0.0,5.53
+Andhra Pradesh,Rice,Clay,Sprinkler,967.7,33.9,63.5,58.8,116.7,10.5,3.5,6.44
+Andhra Pradesh,Cotton,Sandy,Rainfed,694.5,33.3,45.6,45.2,158.2,4.2,3.3,4.02
+Andhra Pradesh,Wheat,Black Soil,Sprinkler,999.9,31.2,58.0,43.9,101.1,9.9,5.1,5.68
+Punjab,Rice,Sandy,Sprinkler,727.8,26.3,51.1,44.5,96.0,4.5,3.3,5.46
+Maharashtra,Groundnut,Black Soil,Rainfed,1012.0,30.2,45.9,57.5,68.1,5.2,2.4,5.09
+Andhra Pradesh,Maize,Loamy,Drip,875.9,31.9,77.4,46.1,107.2,7.0,3.8,5.79
+West Bengal,Sugarcane,Loamy,Rainfed,1400.0,23.1,68.7,58.3,124.0,4.5,4.5,7.83
+Punjab,Groundnut,Red Soil,Sprinkler,768.4,34.8,89.5,47.1,54.7,4.4,0.6,6.02
+Karnataka,Rice,Black Soil,Drip,864.2,21.0,56.0,43.2,103.0,4.5,5.3,5.83
+Maharashtra,Groundnut,Red Soil,Canal,674.5,30.8,68.0,43.6,155.6,8.0,5.9,5.19
+West Bengal,Maize,Clay,Drip,780.6,33.8,51.3,44.9,137.7,7.0,4.5,5.59
+West Bengal,Rice,Black Soil,Sprinkler,250.0,27.5,60.9,28.3,128.1,7.2,1.8,4.71
+Karnataka,Groundnut,Sandy,Drip,882.4,27.4,65.3,52.9,136.7,6.0,2.9,5.51
+Maharashtra,Sugarcane,Clay,Rainfed,1075.4,30.7,63.5,,94.9,8.6,5.6,5.93
+Punjab,Sugarcane,Clay,Canal,867.3,35.4,68.6,44.6,90.3,10.2,1.7,6.63
+Tamil Nadu,Wheat,Sandy,Canal,491.0,26.9,79.7,37.2,159.5,8.7,4.6,4.25
+Maharashtra,Groundnut,Clay,Canal,603.6,24.9,78.4,38.5,144.0,6.4,3.4,5.74
+Karnataka,Cotton,Black Soil,Sprinkler,250.0,26.3,58.8,27.4,88.9,3.3,3.8,4.11
+West Bengal,Groundnut,Red Soil,Sprinkler,995.4,21.8,67.6,39.7,49.2,1.1,2.0,4.4
+Punjab,Rice,Clay,Canal,558.6,31.6,77.5,36.1,89.6,6.8,4.1,5.24
+Maharashtra,Rice,Black Soil,Drip,773.7,25.9,80.4,40.6,134.0,1.0,4.0,5.35
+Tamil Nadu,Groundnut,Loamy,Canal,746.2,27.2,60.1,44.3,92.0,6.4,0.8,5.4
+Tamil Nadu,Maize,Black Soil,Drip,1107.3,31.6,76.5,55.3,126.6,11.2,3.5,6.77
+Andhra Pradesh,Sugarcane,Red Soil,Drip,798.8,26.5,72.0,40.2,164.7,3.5,4.6,5.89
+Andhra Pradesh,Rice,Black Soil,Sprinkler,958.0,31.0,55.2,51.2,111.7,3.1,2.8,6.99
+Karnataka,Sugarcane,Sandy,Drip,900.2,23.8,77.6,41.8,123.2,8.9,0.0,6.34
+Maharashtra,Rice,Red Soil,Canal,1079.1,31.8,69.8,51.2,139.0,0.0,3.3,6.13
+Maharashtra,Wheat,Loamy,Sprinkler,727.4,29.4,47.1,39.6,77.1,8.1,6.1,5.5
+West Bengal,Cotton,Sandy,Rainfed,1191.3,27.6,64.5,59.3,87.9,11.4,2.9,5.81
+West Bengal,Rice,Black Soil,Rainfed,343.2,28.5,68.5,34.3,140.4,4.4,6.1,3.94
+West Bengal,Sugarcane,Red Soil,Sprinkler,968.6,22.9,60.7,48.6,116.3,3.9,2.0,5.68
+Andhra Pradesh,Wheat,Loamy,Canal,589.3,28.4,82.7,36.0,119.3,8.8,1.4,5.51
+Maharashtra,Rice,Sandy,Rainfed,671.6,27.4,83.2,39.8,116.2,3.5,3.5,4.8
+Maharashtra,Maize,Loamy,Rainfed,905.3,23.0,63.4,58.6,149.2,9.4,2.0,6.5
+Tamil Nadu,Cotton,Black Soil,Drip,903.5,25.3,62.1,44.6,130.2,3.7,4.1,6.05
+Andhra Pradesh,Rice,Loamy,Drip,913.4,27.5,66.4,50.7,130.7,12.3,2.8,7.15
+Punjab,Wheat,Clay,Canal,475.0,25.6,65.6,36.2,157.8,9.0,6.2,5.15
+Andhra Pradesh,Maize,Sandy,Sprinkler,1098.8,18.4,60.9,55.2,171.2,7.1,2.7,6.11
+Punjab,Groundnut,Loamy,Canal,581.9,32.3,35.0,44.6,193.5,12.1,3.7,5.8
+Tamil Nadu,Wheat,Black Soil,Sprinkler,611.2,27.4,89.1,38.2,94.7,10.1,4.6,4.97
+Karnataka,Wheat,Black Soil,Rainfed,920.3,18.9,68.0,52.3,201.4,8.1,5.2,6.39
+Maharashtra,Maize,Loamy,Drip,716.9,36.5,65.9,59.5,76.6,1.4,6.2,5.14
+Tamil Nadu,Wheat,Black Soil,Canal,847.8,33.0,71.9,49.6,182.7,4.9,3.1,6.1
+Maharashtra,Maize,Red Soil,Canal,305.5,26.6,67.0,42.3,92.8,10.3,2.8,5.29
+West Bengal,Rice,Red Soil,Sprinkler,842.6,24.6,62.8,49.0,112.6,3.1,0.1,6.72
+Karnataka,Maize,Red Soil,Sprinkler,827.9,29.6,55.9,40.1,115.7,4.7,7.2,6.05
+Karnataka,Maize,Clay,Canal,667.8,28.8,45.9,43.3,84.7,3.9,4.1,4.98
+Tamil Nadu,Cotton,Loamy,Sprinkler,323.7,30.2,51.7,31.1,118.0,8.2,4.9,4.78
+Karnataka,Maize,Clay,Canal,733.2,24.6,54.6,39.8,86.5,9.9,4.5,5.56
+Punjab,Maize,Black Soil,Canal,771.8,32.4,75.8,43.9,71.8,9.9,3.6,6.37
+Karnataka,Groundnut,Clay,Canal,699.2,26.1,76.7,41.6,113.6,4.4,4.1,4.98
+Maharashtra,Rice,Black Soil,Rainfed,376.0,30.7,57.4,28.0,170.6,8.2,2.5,4.47
+Maharashtra,Cotton,Black Soil,Sprinkler,1130.8,24.8,36.0,69.5,106.1,4.3,3.0,6.24
+Maharashtra,Groundnut,Sandy,Drip,639.5,38.6,68.1,45.8,147.9,6.4,1.8,5.28
+Maharashtra,Sugarcane,Red Soil,Drip,731.1,30.8,62.9,44.7,85.4,8.6,6.3,5.64
+Punjab,Rice,Black Soil,Sprinkler,250.0,39.5,62.6,31.8,70.1,10.2,4.5,4.44
+Andhra Pradesh,Rice,Sandy,Canal,1130.9,31.3,79.5,60.5,130.9,0.6,7.1,5.53
+West Bengal,Sugarcane,Red Soil,Drip,677.4,25.8,69.7,54.4,176.4,7.3,7.6,5.96
+Tamil Nadu,Maize,Black Soil,Drip,801.7,31.3,56.3,49.2,122.3,11.2,1.0,7.15
+Maharashtra,Groundnut,Black Soil,Sprinkler,1026.6,31.6,53.5,51.4,143.9,7.7,5.3,5.78
+Karnataka,Wheat,Clay,Drip,631.2,29.5,64.8,49.6,167.3,7.2,1.1,5.75
+Maharashtra,Cotton,Clay,Canal,991.9,30.5,57.1,50.7,113.7,5.3,3.8,6.39
+Karnataka,Wheat,Red Soil,Sprinkler,326.5,31.0,67.1,35.8,109.7,11.1,4.1,4.6
+West Bengal,Sugarcane,Black Soil,Canal,901.2,24.0,80.3,53.5,131.5,5.4,1.2,6.69
+West Bengal,Rice,Loamy,Drip,1125.9,23.7,51.4,50.8,137.8,6.7,2.2,7.36
+West Bengal,Rice,Clay,Drip,652.3,24.8,69.1,28.9,66.0,5.6,4.1,4.72
+Karnataka,Cotton,Red Soil,Canal,1026.2,28.5,79.0,48.0,125.4,7.3,3.8,6.13
+Maharashtra,Rice,Black Soil,Rainfed,1183.5,27.1,67.0,59.2,115.0,11.3,1.7,6.67
+West Bengal,Rice,Black Soil,Drip,723.9,24.1,76.7,47.3,87.4,4.3,2.2,6.25
+Punjab,Cotton,Loamy,Rainfed,705.7,31.1,64.6,50.7,112.6,7.3,0.8,5.08
+Karnataka,Groundnut,Red Soil,Drip,582.4,29.1,70.0,37.2,74.2,8.2,1.3,5.1
+Karnataka,Groundnut,Black Soil,Rainfed,667.9,28.7,73.3,51.2,62.1,4.6,2.8,4.51
+Maharashtra,Cotton,Clay,Rainfed,600.6,27.0,61.1,41.1,117.3,6.8,5.3,4.19
+Karnataka,Sugarcane,Loamy,Rainfed,582.2,26.5,91.9,43.2,146.6,12.6,5.5,5.86
+Karnataka,Rice,Red Soil,Canal,1043.7,24.6,74.9,56.5,102.8,1.7,6.8,5.46
+West Bengal,Rice,Loamy,Rainfed,606.2,31.7,83.6,31.9,81.4,5.7,4.3,4.77
+Maharashtra,Sugarcane,Clay,Rainfed,836.9,25.2,80.9,39.9,86.8,7.8,3.8,5.73
+West Bengal,Groundnut,Red Soil,Rainfed,788.4,28.8,71.9,38.5,134.2,5.9,4.4,5.0
+West Bengal,Maize,Loamy,Drip,1109.6,34.6,84.6,59.2,173.4,15.7,4.4,7.17
+Maharashtra,Maize,Sandy,Rainfed,669.3,26.7,70.3,39.9,142.0,8.6,0.6,4.81
+Tamil Nadu,Maize,Clay,Drip,863.9,31.8,59.2,58.8,160.5,3.9,6.9,6.27
+West Bengal,Groundnut,Clay,Rainfed,954.0,30.3,68.2,48.9,78.3,0.0,0.0,5.41
+Punjab,Groundnut,Clay,Rainfed,1107.7,29.2,55.9,43.9,112.4,8.0,5.6,5.46
+Punjab,Sugarcane,Sandy,Canal,666.1,29.7,42.8,37.6,150.7,4.7,3.6,5.59
+Karnataka,Rice,Sandy,Drip,644.1,27.6,57.8,41.8,66.0,10.9,1.5,5.46
+Punjab,Sugarcane,Black Soil,Rainfed,546.4,28.1,68.9,,92.0,6.2,4.5,5.29
+Karnataka,Sugarcane,Loamy,Drip,1272.0,25.8,80.7,50.9,148.0,5.3,3.3,7.02
+Tamil Nadu,Groundnut,Black Soil,Drip,1084.6,28.2,57.7,55.5,124.0,5.2,2.3,6.21
+Maharashtra,Maize,Loamy,Sprinkler,770.7,25.7,80.1,49.3,81.2,10.0,1.0,5.34
+Maharashtra,Wheat,Sandy,Canal,1204.9,32.0,53.5,51.3,57.9,8.2,0.9,5.9
+Maharashtra,Rice,Sandy,Canal,757.6,21.2,57.0,55.8,161.8,12.3,2.4,5.46
+Punjab,Groundnut,Black Soil,Canal,939.4,29.9,85.4,45.3,43.1,6.4,2.8,6.36
+Tamil Nadu,Maize,Red Soil,Sprinkler,782.2,29.3,68.6,38.6,137.1,9.6,1.3,6.35
+Punjab,Wheat,Black Soil,Sprinkler,867.5,29.0,65.9,37.5,96.3,9.6,3.6,5.69
+Punjab,Wheat,Loamy,Canal,844.2,32.1,70.8,53.4,151.6,9.0,1.6,7.08
+Tamil Nadu,Groundnut,Black Soil,Sprinkler,686.5,26.9,53.5,42.3,78.5,5.5,4.1,5.56
+Tamil Nadu,Cotton,Clay,Sprinkler,1020.3,29.0,64.0,47.6,206.5,8.4,5.7,7.07
+Tamil Nadu,Rice,Loamy,Sprinkler,937.5,21.1,68.0,39.6,129.1,6.7,4.0,5.92
+Tamil Nadu,Wheat,Loamy,Canal,1006.1,26.3,82.8,47.8,134.8,6.6,3.3,6.7
+Maharashtra,Groundnut,Red Soil,Canal,850.4,31.4,48.0,60.5,87.9,4.6,2.5,5.71
+Andhra Pradesh,Groundnut,Sandy,Canal,580.6,22.6,89.2,26.6,110.3,0.6,6.1,4.07
+Andhra Pradesh,Maize,Loamy,Sprinkler,1156.1,28.6,66.5,50.1,111.2,10.7,3.2,6.47
+Tamil Nadu,Cotton,Sandy,Canal,722.2,25.3,54.7,53.8,177.9,8.3,8.0,5.12
+Andhra Pradesh,Rice,Black Soil,Sprinkler,860.1,27.6,52.5,54.0,129.0,3.0,1.4,6.16
+Andhra Pradesh,Sugarcane,Clay,Rainfed,919.8,25.5,71.3,44.6,134.0,9.2,4.0,6.63
+Tamil Nadu,Maize,Red Soil,Sprinkler,858.6,23.0,51.8,47.7,133.6,10.8,6.0,6.04
+Andhra Pradesh,Wheat,Sandy,Drip,981.4,29.5,61.3,52.3,137.0,9.3,2.3,6.58
+Punjab,Wheat,Loamy,Canal,1016.1,27.8,65.0,51.2,66.4,4.3,3.1,6.34
+Karnataka,Maize,Sandy,Canal,730.5,30.5,81.7,54.0,186.7,4.8,4.6,5.6
+Karnataka,Groundnut,Loamy,Drip,1137.6,31.2,80.2,55.5,84.3,5.4,4.2,5.86
+Tamil Nadu,Wheat,Sandy,Sprinkler,721.3,32.9,60.3,49.8,113.7,9.6,4.5,5.13
+Maharashtra,Cotton,Loamy,Rainfed,854.1,28.5,65.4,47.4,168.6,8.4,5.6,5.56
+Tamil Nadu,Rice,Black Soil,Drip,694.7,33.1,48.9,30.2,182.7,15.4,2.9,6.39
+Maharashtra,Cotton,Loamy,Drip,631.8,24.1,43.5,33.6,143.2,2.1,6.1,4.58
+Karnataka,Wheat,Loamy,Sprinkler,1009.7,31.6,53.3,44.3,97.3,6.8,0.4,6.29
+Tamil Nadu,Sugarcane,Clay,Canal,1400.0,29.8,81.5,58.5,119.5,1.2,5.4,6.79
+West Bengal,Rice,Loamy,Sprinkler,700.4,28.9,77.4,55.0,120.8,8.8,5.6,6.14
+Punjab,Rice,Clay,Drip,1047.4,29.8,72.6,53.4,122.1,10.2,2.1,7.06
+Andhra Pradesh,Maize,Red Soil,Drip,708.3,24.2,50.5,42.1,,11.3,0.9,5.47
+Maharashtra,Maize,Clay,Canal,777.7,23.2,59.5,51.9,159.1,7.6,3.1,5.65
+West Bengal,Sugarcane,Black Soil,Canal,1166.7,34.8,57.7,45.5,119.7,1.3,4.2,6.35
+Andhra Pradesh,Groundnut,Clay,Canal,543.8,27.3,66.0,35.7,89.7,6.8,2.9,5.08
+Andhra Pradesh,Rice,Red Soil,Sprinkler,485.6,27.3,65.3,33.3,97.6,8.3,4.4,5.13
+Tamil Nadu,Sugarcane,Black Soil,Canal,760.8,23.6,56.0,46.4,124.4,4.0,7.0,5.13
+Andhra Pradesh,Maize,Sandy,Drip,926.0,22.1,72.2,53.5,65.9,6.2,1.0,5.96
+Punjab,Maize,Sandy,Drip,882.0,27.6,70.7,49.9,145.7,3.2,0.0,6.55
+West Bengal,Rice,Clay,Rainfed,859.3,26.6,59.3,49.4,123.2,5.2,3.4,5.93
+Andhra Pradesh,Cotton,Clay,Sprinkler,787.5,28.0,71.7,42.5,169.8,9.7,2.3,6.64
+Tamil Nadu,Wheat,Red Soil,Rainfed,953.0,28.3,81.5,50.8,117.7,9.0,2.6,5.5
+Punjab,Maize,Red Soil,Drip,250.0,38.0,85.1,26.2,77.0,2.8,5.8,3.56
+Karnataka,Groundnut,Loamy,Rainfed,614.8,26.6,73.9,44.4,73.1,4.9,3.3,5.06
+West Bengal,Groundnut,Red Soil,Drip,759.4,34.3,73.5,41.0,101.3,7.2,3.4,5.75
+Andhra Pradesh,Maize,Loamy,Rainfed,935.0,34.6,65.1,41.6,105.0,7.7,2.7,5.51
+Tamil Nadu,Cotton,Black Soil,Canal,1107.7,31.0,80.4,52.9,95.1,5.0,3.4,6.41
+Karnataka,Cotton,Clay,Rainfed,585.3,27.1,55.2,28.2,119.5,8.4,4.0,4.7
+Karnataka,Sugarcane,Black Soil,Canal,1100.6,22.6,79.0,61.4,94.3,6.9,8.5,6.8
+Maharashtra,Groundnut,Red Soil,Canal,680.4,29.9,64.5,46.8,123.9,0.0,4.0,4.71
+Punjab,Sugarcane,Black Soil,Sprinkler,751.4,32.1,85.9,45.8,96.8,5.3,5.6,5.47
+Andhra Pradesh,Groundnut,Black Soil,Canal,907.9,35.0,75.1,38.0,137.1,5.2,3.8,5.28
+Tamil Nadu,Wheat,Black Soil,Canal,735.3,24.2,67.2,39.2,104.1,9.0,0.0,7.06
+Maharashtra,Wheat,Red Soil,Rainfed,1024.2,27.0,65.2,50.8,158.6,9.1,2.5,5.49
+Punjab,Rice,Black Soil,Drip,691.0,24.2,74.3,40.7,137.8,2.0,4.0,5.85
+Maharashtra,Sugarcane,Loamy,Sprinkler,694.3,25.5,73.7,32.2,121.8,8.3,4.8,6.56
+West Bengal,Maize,Red Soil,Canal,1011.4,30.7,63.2,42.4,107.7,6.8,3.9,5.54
+Punjab,Sugarcane,Black Soil,Sprinkler,612.1,25.3,69.1,38.6,61.8,7.4,5.2,4.56
+Punjab,Maize,Red Soil,Rainfed,834.8,24.7,78.8,38.2,164.5,5.2,0.9,4.77
+Andhra Pradesh,Cotton,Sandy,Canal,414.7,31.2,51.6,43.6,91.2,6.8,3.6,3.9
+Punjab,Sugarcane,Loamy,Rainfed,1180.3,29.8,76.7,57.5,118.2,10.5,5.9,6.22
+Maharashtra,Cotton,Black Soil,Sprinkler,1045.4,29.4,74.3,46.3,127.0,7.3,1.8,6.77
+Punjab,Wheat,Sandy,Rainfed,1385.0,25.4,82.2,66.6,108.6,6.9,5.5,6.22
+Andhra Pradesh,Wheat,Sandy,Sprinkler,1074.4,33.2,59.4,57.7,162.4,5.6,5.4,5.18
+Andhra Pradesh,Rice,Red Soil,Rainfed,531.5,28.1,68.1,40.0,72.3,10.2,1.3,4.28
+West Bengal,Sugarcane,Sandy,Sprinkler,927.1,37.5,70.5,47.9,175.7,3.2,4.1,6.3
+Maharashtra,Cotton,Loamy,Drip,578.0,28.6,76.9,37.7,138.5,4.6,3.8,5.37
+Karnataka,Maize,Loamy,Rainfed,1127.2,18.7,73.1,49.9,106.4,3.0,3.2,6.09
+Karnataka,Wheat,Clay,Rainfed,537.7,18.5,53.1,30.4,106.8,7.6,0.8,4.81
+Punjab,Wheat,Loamy,Drip,527.2,30.5,71.5,47.3,37.4,10.5,3.0,5.11
+West Bengal,Maize,Sandy,Drip,425.8,33.2,92.1,32.5,85.3,6.0,3.2,4.65
+Tamil Nadu,Cotton,Loamy,Rainfed,672.6,24.9,75.3,42.0,102.6,3.8,0.4,5.28
+Punjab,Cotton,Red Soil,Drip,628.3,36.4,87.7,35.2,121.2,11.9,1.2,4.9
+West Bengal,Sugarcane,Clay,Canal,502.4,34.7,80.5,36.0,159.1,8.4,1.8,5.27
+Maharashtra,Sugarcane,Sandy,Sprinkler,1217.8,28.8,84.3,72.5,186.3,7.8,1.6,8.41
+Maharashtra,Groundnut,Clay,Sprinkler,896.6,30.2,71.7,43.1,124.5,6.4,4.1,5.23
+Maharashtra,Groundnut,Sandy,Sprinkler,870.7,31.6,74.3,55.5,122.2,9.0,5.1,5.4
+Maharashtra,Rice,Red Soil,Canal,1129.6,35.6,71.1,53.1,97.8,7.8,2.9,6.03
+Maharashtra,Wheat,Clay,Drip,836.4,30.7,68.1,50.0,55.0,5.6,4.9,5.37
+West Bengal,Sugarcane,Black Soil,Drip,615.3,28.8,76.9,47.8,93.8,6.1,5.2,5.77
+West Bengal,Cotton,Sandy,Rainfed,406.0,30.7,61.7,36.8,107.8,3.9,3.3,3.97
+Andhra Pradesh,Maize,Black Soil,Drip,602.9,30.1,90.6,38.0,149.1,3.6,4.2,5.84
+Karnataka,Cotton,Clay,Rainfed,1111.2,31.7,56.9,51.7,133.2,6.1,3.1,5.82
+Maharashtra,Wheat,Black Soil,Canal,503.8,21.7,77.7,36.7,122.8,10.5,1.5,4.94
+Tamil Nadu,Groundnut,Black Soil,Sprinkler,857.7,29.3,84.5,57.6,94.7,3.9,2.2,5.75
+West Bengal,Cotton,Clay,Sprinkler,1007.5,29.8,65.9,41.3,45.6,9.5,4.1,5.13
+Tamil Nadu,Rice,Red Soil,Sprinkler,842.8,27.7,54.6,35.4,47.7,4.6,3.3,5.19
+Tamil Nadu,Wheat,Black Soil,Drip,867.8,31.1,81.9,36.5,56.8,1.6,4.8,4.59
+Tamil Nadu,Groundnut,Black Soil,Rainfed,924.2,35.7,70.4,42.7,104.8,8.6,0.1,5.63
+Andhra Pradesh,Maize,Red Soil,Rainfed,863.4,28.6,77.8,50.8,149.8,11.9,0.5,6.25
+West Bengal,Groundnut,Black Soil,Canal,1134.0,30.8,66.7,57.9,148.8,4.4,0.7,7.1
+Tamil Nadu,Rice,Black Soil,Drip,551.1,34.4,88.8,35.1,142.8,2.3,3.8,4.93
+Maharashtra,Wheat,Black Soil,Canal,832.9,28.6,42.6,45.7,97.0,8.4,1.0,5.58
+Punjab,Maize,Loamy,Rainfed,380.0,24.4,72.5,27.8,155.0,4.2,4.1,5.1
+Tamil Nadu,Rice,Red Soil,Rainfed,323.8,30.5,84.1,27.0,,8.6,4.9,3.39
+Andhra Pradesh,Groundnut,Black Soil,Sprinkler,762.0,19.2,69.3,47.5,144.9,10.5,6.2,6.21
+West Bengal,Rice,Red Soil,Drip,899.5,18.8,71.6,53.8,56.4,8.0,6.0,5.12
+Andhra Pradesh,Wheat,Sandy,Rainfed,1138.7,29.3,62.8,50.6,73.8,9.4,2.2,5.18
+Tamil Nadu,Sugarcane,Sandy,Sprinkler,1312.4,18.6,68.2,67.6,172.8,9.4,0.5,7.95
+West Bengal,Rice,Black Soil,Drip,1070.4,22.7,47.9,57.6,107.9,10.0,2.4,7.23
+Punjab,Rice,Red Soil,Canal,940.0,26.5,59.4,58.0,91.2,7.1,5.3,6.62
+Tamil Nadu,Groundnut,Red Soil,Drip,815.2,25.1,58.6,43.6,153.6,9.3,2.8,5.29
+Andhra Pradesh,Groundnut,Red Soil,Drip,443.1,27.4,76.0,45.2,157.6,7.5,3.5,5.34
+Karnataka,Maize,Loamy,Rainfed,747.9,32.5,61.1,56.8,99.8,8.2,2.5,5.5
+Maharashtra,Groundnut,Sandy,Rainfed,1063.9,29.0,61.5,49.1,124.7,16.2,6.3,4.94
+Andhra Pradesh,Cotton,Red Soil,Drip,977.6,24.6,63.5,48.5,119.8,7.7,1.7,6.8
+West Bengal,Wheat,Red Soil,Rainfed,497.0,33.4,59.0,31.7,30.0,2.5,3.6,3.46
+Tamil Nadu,Wheat,Loamy,Rainfed,915.1,22.3,71.2,41.0,66.1,6.4,5.5,4.91
+Maharashtra,Sugarcane,Loamy,Rainfed,896.2,28.9,72.5,40.6,148.0,6.1,6.8,5.76
+Tamil Nadu,Sugarcane,Red Soil,Sprinkler,,21.8,77.9,41.6,85.9,6.2,2.2,5.25
+West Bengal,Wheat,Clay,Sprinkler,773.9,29.0,75.8,46.0,133.5,9.9,5.2,5.47
+Tamil Nadu,Sugarcane,Red Soil,Drip,926.4,26.7,74.6,43.5,124.2,10.4,2.4,6.62
+Karnataka,Maize,Red Soil,Rainfed,933.4,32.3,64.1,49.8,157.5,6.7,6.0,5.4
+Maharashtra,Groundnut,Loamy,Sprinkler,638.9,30.9,63.3,42.6,67.3,2.8,6.6,4.86
+Maharashtra,Wheat,Loamy,Drip,880.1,25.7,57.5,44.2,128.8,7.3,1.9,5.97
+West Bengal,Sugarcane,Red Soil,Rainfed,738.3,24.9,57.3,43.1,112.7,5.4,4.7,4.66
+Karnataka,Wheat,Red Soil,Canal,452.8,26.7,70.3,33.2,87.4,7.6,5.5,4.44
+Andhra Pradesh,Cotton,Red Soil,Rainfed,656.4,35.5,59.4,39.5,87.1,6.6,3.0,4.17
+Tamil Nadu,Rice,Loamy,Rainfed,436.0,34.5,85.6,31.0,123.0,10.6,4.5,4.07
+Punjab,Groundnut,Red Soil,Sprinkler,995.6,24.1,67.5,50.4,137.0,7.8,4.6,5.69
+Tamil Nadu,Wheat,Red Soil,Drip,858.3,31.2,86.0,42.9,117.2,5.4,7.1,5.28
+Tamil Nadu,Rice,Black Soil,Drip,701.8,21.1,74.9,35.5,118.3,2.8,0.0,5.82
+Andhra Pradesh,Sugarcane,Clay,Sprinkler,1092.5,26.2,58.7,55.9,97.6,6.9,3.4,6.81
+Tamil Nadu,Rice,Sandy,Rainfed,795.0,24.3,67.3,48.6,99.9,6.9,1.2,4.72
+Karnataka,Groundnut,Clay,Canal,465.1,32.3,47.9,43.3,87.3,6.2,3.5,4.43
+Karnataka,Wheat,Black Soil,Rainfed,683.3,22.8,70.3,35.9,96.8,9.3,2.1,5.26
+Maharashtra,Cotton,Sandy,Rainfed,1139.2,29.7,59.8,50.6,135.8,2.9,3.0,4.21
+West Bengal,Sugarcane,Red Soil,Canal,632.7,28.0,54.6,42.2,139.7,4.7,1.9,5.7
+Punjab,Wheat,Black Soil,Sprinkler,840.5,27.3,86.3,43.0,70.3,7.2,3.8,5.27
+Tamil Nadu,Groundnut,Red Soil,Drip,943.7,34.7,80.4,52.0,83.6,5.3,5.4,5.29
+Tamil Nadu,Sugarcane,Loamy,Sprinkler,909.8,35.0,80.0,50.7,90.1,5.9,2.8,5.86
+Andhra Pradesh,Maize,Black Soil,Sprinkler,1318.9,27.4,77.4,60.8,112.8,6.8,6.1,6.99
+West Bengal,Rice,Loamy,Rainfed,521.2,26.6,53.2,46.8,56.1,9.1,5.4,5.3
+Karnataka,Groundnut,Black Soil,Drip,543.2,22.0,63.2,42.4,84.2,6.7,7.2,4.15
+Punjab,Maize,Black Soil,Drip,524.9,28.0,63.9,39.0,66.5,1.1,4.2,4.74
+Maharashtra,Wheat,Loamy,Sprinkler,714.9,35.8,47.5,41.7,129.0,5.2,3.4,5.22
+Karnataka,Cotton,Sandy,Canal,1021.9,27.5,61.3,49.8,114.0,8.5,0.6,6.07
+West Bengal,Sugarcane,Clay,Sprinkler,553.0,30.9,61.4,32.4,98.8,9.3,2.1,5.32
+Maharashtra,Rice,Red Soil,Canal,1024.9,22.4,69.5,40.0,77.8,9.5,3.1,5.56
+Andhra Pradesh,Sugarcane,Black Soil,Drip,787.7,26.3,95.0,47.5,99.4,10.3,3.3,6.26
+Andhra Pradesh,Wheat,Red Soil,Sprinkler,536.0,29.8,67.7,45.7,95.2,7.4,7.7,4.41
+Tamil Nadu,Sugarcane,Loamy,Rainfed,394.7,28.4,69.5,32.9,172.2,7.8,3.1,5.5
+West Bengal,Rice,Red Soil,Sprinkler,443.9,31.3,65.0,45.6,149.9,4.0,0.3,5.68
+Punjab,Wheat,Loamy,Drip,633.5,25.6,76.9,39.8,90.8,0.5,4.7,4.66
+Maharashtra,Sugarcane,Red Soil,Rainfed,742.8,21.0,55.1,31.8,120.8,2.7,4.6,4.6
+Karnataka,Cotton,Clay,Rainfed,1076.1,32.5,90.8,57.4,148.0,4.9,2.7,6.95
+West Bengal,Groundnut,Clay,Canal,955.8,24.3,66.5,46.0,90.8,2.9,7.3,5.53
+West Bengal,Wheat,Clay,Rainfed,595.4,30.0,63.3,45.9,65.4,6.1,0.1,4.67
+Andhra Pradesh,Groundnut,Clay,Rainfed,869.9,29.8,79.6,39.1,52.1,5.6,5.7,4.4
+Tamil Nadu,Wheat,Clay,Sprinkler,1143.3,21.3,57.3,56.1,159.5,9.8,3.0,6.97
+Tamil Nadu,Cotton,Clay,Drip,1192.3,32.2,76.6,50.0,108.3,4.1,1.8,6.71
+Maharashtra,Groundnut,Loamy,Canal,710.8,25.7,84.9,44.0,125.2,7.4,7.8,4.82
+Andhra Pradesh,Maize,Black Soil,Sprinkler,990.8,28.2,65.1,54.4,94.9,5.7,4.8,6.11
+West Bengal,Rice,Red Soil,Rainfed,1085.8,26.6,92.6,55.4,70.6,4.0,3.0,5.34
+Punjab,Maize,Clay,Rainfed,448.4,34.5,75.7,36.6,77.2,4.8,2.9,4.66
+Andhra Pradesh,Sugarcane,Loamy,Canal,667.3,33.4,75.9,33.4,68.1,0.8,4.0,5.08
+Maharashtra,Cotton,Loamy,Drip,1268.4,20.8,84.4,61.1,144.7,9.2,2.7,7.25
+Maharashtra,Maize,Loamy,Canal,713.8,37.0,87.6,49.0,167.2,11.2,5.8,6.21
+Andhra Pradesh,Wheat,Black Soil,Sprinkler,250.0,25.3,71.1,25.0,116.3,6.2,3.7,4.86
+Maharashtra,Sugarcane,Red Soil,Canal,753.4,36.4,77.6,38.5,61.9,7.1,5.3,5.2
+Andhra Pradesh,Sugarcane,Black Soil,Rainfed,1027.4,27.0,84.8,57.1,132.4,6.1,3.9,6.81
+Karnataka,Maize,Sandy,Sprinkler,781.4,26.6,54.1,43.3,159.3,4.5,5.1,5.83
+Andhra Pradesh,Maize,Loamy,Rainfed,937.4,27.0,47.2,43.2,149.0,9.1,5.9,5.45
+Andhra Pradesh,Cotton,Sandy,Drip,986.4,26.4,67.3,51.3,114.0,8.0,6.5,5.41
+Maharashtra,Rice,Clay,Rainfed,701.9,38.1,47.0,38.7,106.8,0.0,4.4,4.46
+Maharashtra,Maize,Clay,Rainfed,665.7,27.7,64.2,42.6,113.7,3.9,1.9,4.65
+Tamil Nadu,Maize,Black Soil,Canal,813.8,26.8,71.8,42.9,157.9,0.8,3.2,5.79
+Tamil Nadu,Groundnut,Red Soil,Rainfed,819.1,28.3,64.7,43.5,141.6,11.7,3.5,5.46
+Karnataka,Wheat,Sandy,Sprinkler,791.9,24.1,66.3,51.5,101.5,6.5,2.5,5.2
+Tamil Nadu,Groundnut,Red Soil,Sprinkler,800.9,34.4,56.0,30.2,100.6,7.7,2.2,5.15
+Andhra Pradesh,Groundnut,Black Soil,Drip,615.3,22.1,77.5,43.7,98.1,5.9,3.8,4.67
+Maharashtra,Sugarcane,Clay,Sprinkler,945.1,25.5,55.2,54.3,77.7,10.3,1.7,6.59
+Tamil Nadu,Rice,Red Soil,Canal,911.8,31.7,42.8,44.1,162.3,9.6,1.4,6.56
+Tamil Nadu,Wheat,Red Soil,Drip,486.1,28.2,65.5,42.8,87.4,6.4,0.5,5.88
+Karnataka,Cotton,Clay,Sprinkler,694.4,30.2,79.0,36.6,132.2,12.2,4.4,5.46
+West Bengal,Cotton,Sandy,Canal,800.5,34.1,69.0,41.1,91.9,7.6,4.1,4.54
+Karnataka,Maize,Clay,Sprinkler,662.5,32.0,54.0,36.9,98.3,2.6,2.9,5.31
+Andhra Pradesh,Maize,Red Soil,Sprinkler,920.2,28.5,69.2,53.7,111.0,7.3,5.3,4.78
+Maharashtra,Cotton,Sandy,Rainfed,765.3,36.4,73.3,33.7,134.1,8.6,1.7,4.33
+Karnataka,Maize,Sandy,Sprinkler,817.2,25.5,69.1,55.3,105.9,6.6,4.2,5.23
+Tamil Nadu,Rice,Clay,Sprinkler,691.8,27.6,64.8,40.5,75.1,5.8,3.6,5.61
+Maharashtra,Groundnut,Red Soil,Canal,341.5,27.9,73.8,37.2,115.7,12.3,2.2,5.12
+Maharashtra,Maize,Black Soil,Canal,328.9,27.6,47.1,36.4,88.2,3.4,2.6,5.08
+Tamil Nadu,Sugarcane,Red Soil,Rainfed,909.7,23.7,57.3,48.7,169.0,0.0,2.5,5.82
+Karnataka,Maize,Loamy,Sprinkler,838.7,21.7,52.3,42.4,105.9,11.9,4.0,5.45
+Tamil Nadu,Wheat,Black Soil,Rainfed,876.5,29.7,84.2,54.4,91.6,3.3,4.6,5.09
+West Bengal,Rice,Sandy,Sprinkler,809.6,25.5,76.5,42.2,184.1,6.1,2.7,5.8
+Maharashtra,Wheat,Black Soil,Drip,827.2,35.6,70.2,41.3,140.9,5.9,2.2,5.99
+Punjab,Wheat,Sandy,Drip,993.2,27.7,50.6,55.1,83.6,10.7,3.7,6.2
+Punjab,Sugarcane,Sandy,Rainfed,877.8,27.0,76.9,47.8,87.3,11.3,0.5,5.71
+Andhra Pradesh,Rice,Black Soil,Rainfed,1009.0,32.4,84.6,58.4,,3.1,3.6,5.48
+Tamil Nadu,Rice,Sandy,Rainfed,817.7,29.6,74.9,45.1,116.5,11.1,6.3,4.75
+Tamil Nadu,Rice,Sandy,Canal,713.9,27.3,67.6,38.9,146.2,11.0,2.2,5.5
+Andhra Pradesh,Rice,Loamy,Canal,822.7,25.4,75.6,47.2,91.8,7.1,3.2,6.53
+Andhra Pradesh,Rice,Red Soil,Canal,596.0,40.0,71.3,37.2,139.5,9.8,5.3,4.65
+Andhra Pradesh,Sugarcane,Red Soil,Rainfed,696.4,29.4,79.1,38.7,36.7,10.1,4.9,4.71
+Maharashtra,Maize,Loamy,Sprinkler,819.1,32.3,78.8,50.5,109.6,6.2,3.6,6.21
+West Bengal,Wheat,Black Soil,Drip,816.2,23.9,65.3,56.4,93.4,6.5,3.4,6.09
+Tamil Nadu,Rice,Clay,Rainfed,756.6,25.7,60.1,42.4,99.1,8.8,1.3,5.21
+Maharashtra,Maize,Clay,Canal,474.6,36.4,63.2,31.0,111.4,2.1,4.4,4.56
+Andhra Pradesh,Maize,Clay,Canal,920.0,33.6,74.4,47.1,154.8,5.9,1.1,6.43
+Tamil Nadu,Wheat,Loamy,Rainfed,963.5,29.8,63.9,52.2,74.6,3.4,0.0,5.03
+Maharashtra,Sugarcane,Loamy,Rainfed,1141.6,26.5,59.0,55.1,38.4,11.3,5.3,6.5
+West Bengal,Cotton,Sandy,Canal,877.2,27.1,68.0,54.1,78.7,5.9,4.2,5.45
+Maharashtra,Cotton,Clay,Sprinkler,780.3,25.3,81.3,48.5,150.8,7.8,5.1,5.78
+West Bengal,Maize,Black Soil,Canal,557.1,23.4,69.6,32.3,57.4,6.3,2.2,5.47
+Andhra Pradesh,Groundnut,Black Soil,Canal,1108.2,31.7,64.7,49.7,95.0,6.1,4.3,6.18
+West Bengal,Groundnut,Clay,Rainfed,834.5,30.2,71.8,37.6,144.4,7.6,2.7,5.66
+Tamil Nadu,Wheat,Clay,Sprinkler,822.5,30.9,69.0,52.4,113.0,4.8,2.9,6.29
+Andhra Pradesh,Cotton,Clay,Canal,724.1,26.7,44.8,31.2,154.5,6.4,5.3,5.49
+Tamil Nadu,Maize,Loamy,Canal,710.0,29.0,76.4,35.1,43.8,6.4,3.2,4.64
+Punjab,Sugarcane,Loamy,Drip,931.4,26.3,72.9,45.2,103.7,5.7,2.2,6.26
+Karnataka,Cotton,Loamy,Rainfed,555.3,25.1,68.2,42.3,161.8,8.2,1.0,5.57
+West Bengal,Maize,Red Soil,Drip,1137.6,34.7,80.7,50.3,75.6,5.7,4.1,6.4
+Karnataka,Maize,Black Soil,Drip,1089.7,28.5,82.6,50.1,151.2,11.8,5.4,6.72
+Karnataka,Rice,Black Soil,Canal,702.1,30.0,77.6,,106.8,8.9,2.1,5.45
+West Bengal,Sugarcane,Sandy,Rainfed,589.9,31.3,57.8,40.8,130.2,3.0,4.7,4.54
+Andhra Pradesh,Rice,Loamy,Sprinkler,336.7,28.5,58.2,26.1,159.3,8.7,1.8,5.0
+Punjab,Wheat,Red Soil,Canal,504.7,29.0,81.4,31.9,130.0,4.9,4.8,4.71
+Tamil Nadu,Rice,Red Soil,Sprinkler,940.6,23.7,45.5,58.6,94.3,7.4,3.6,6.04
+Maharashtra,Rice,Black Soil,Sprinkler,849.4,24.4,66.2,48.6,134.7,4.8,4.0,5.92
+Tamil Nadu,Cotton,Loamy,Rainfed,888.6,24.2,73.3,51.8,91.8,0.4,2.2,5.86
+Maharashtra,Groundnut,Sandy,Drip,374.0,30.4,47.0,34.7,124.6,6.9,4.1,3.91
+Tamil Nadu,Maize,Loamy,Rainfed,692.9,28.3,70.8,41.5,71.2,2.7,2.4,4.99
+West Bengal,Sugarcane,Clay,Sprinkler,1080.8,24.4,79.5,54.8,116.0,8.3,2.8,6.52
+Punjab,Rice,Loamy,Canal,758.9,30.3,50.2,48.3,156.6,7.5,0.8,7.06
+Maharashtra,Sugarcane,Clay,Sprinkler,500.1,30.2,87.9,42.6,104.5,5.2,2.1,5.38
+Andhra Pradesh,Groundnut,Clay,Canal,755.4,25.2,55.9,43.1,153.3,12.5,2.6,6.35
+Tamil Nadu,Groundnut,Sandy,Canal,610.4,27.9,74.9,46.0,220.0,3.3,4.1,4.36
+Tamil Nadu,Rice,Black Soil,Rainfed,853.4,30.2,67.0,31.5,114.0,5.1,4.6,5.22
+Maharashtra,Wheat,Loamy,Sprinkler,784.5,24.6,68.8,50.0,136.5,3.6,2.4,5.92
+Andhra Pradesh,Rice,Clay,Drip,899.5,30.3,52.6,44.9,131.7,13.1,3.2,7.01
+Andhra Pradesh,Cotton,Loamy,Sprinkler,512.1,29.2,83.1,41.1,122.9,11.1,6.5,4.99
+West Bengal,Maize,Black Soil,Sprinkler,681.3,24.0,71.9,38.1,142.6,2.7,3.7,5.78
+West Bengal,Wheat,Black Soil,Drip,1019.9,28.9,87.5,42.5,106.3,4.5,2.5,6.12
+West Bengal,Rice,Red Soil,Rainfed,482.1,29.5,52.9,39.1,91.8,4.6,0.5,4.66
+West Bengal,Sugarcane,Black Soil,Sprinkler,559.3,25.5,65.8,30.0,61.6,5.3,2.0,5.65
+West Bengal,Wheat,Sandy,Sprinkler,823.8,25.8,70.5,43.2,103.0,3.9,1.9,4.95
+West Bengal,Wheat,Clay,Canal,843.1,24.0,68.7,41.2,146.6,5.2,7.1,5.64
+Punjab,Rice,Red Soil,Sprinkler,672.5,26.2,76.0,40.8,82.1,10.0,2.0,5.89
+Andhra Pradesh,Wheat,Sandy,Drip,718.7,28.0,65.7,47.8,123.6,12.8,3.6,5.62
+West Bengal,Sugarcane,Loamy,Canal,897.3,25.8,93.5,44.5,110.7,2.4,4.2,5.83
+Andhra Pradesh,Groundnut,Clay,Rainfed,966.9,22.1,68.5,51.1,93.3,3.9,5.5,4.04
+Andhra Pradesh,Wheat,Black Soil,Canal,544.8,25.2,35.0,43.1,50.1,7.6,3.5,4.85
+Karnataka,Groundnut,Clay,Drip,860.2,26.3,69.0,42.9,162.7,2.3,2.6,5.69
+Punjab,Sugarcane,Loamy,Drip,1112.6,31.3,83.1,49.3,133.1,7.7,2.5,7.68
+West Bengal,Rice,Red Soil,Canal,754.5,30.4,56.9,52.1,208.3,8.6,4.1,6.51
+Tamil Nadu,Maize,Red Soil,Rainfed,542.4,31.3,56.2,38.1,152.8,9.1,2.3,5.41
+Maharashtra,Wheat,Red Soil,Canal,532.3,25.0,57.9,41.4,161.9,8.5,1.5,5.73
+Tamil Nadu,Maize,Black Soil,Rainfed,,28.6,55.1,46.6,53.8,5.4,2.6,6.23
+Punjab,Sugarcane,Sandy,Canal,1007.9,18.3,62.2,43.0,53.2,6.5,1.1,5.89
+Maharashtra,Wheat,Sandy,Drip,771.0,29.7,78.9,39.7,116.5,3.5,6.8,4.35
+Punjab,Groundnut,Clay,Sprinkler,821.6,30.4,86.3,47.8,74.8,8.4,4.6,5.85
+Andhra Pradesh,Cotton,Black Soil,Sprinkler,560.8,26.6,38.9,26.6,91.2,11.8,6.4,5.41
+Maharashtra,Maize,Red Soil,Rainfed,996.3,29.2,63.5,48.6,203.4,8.4,4.4,6.14
+Andhra Pradesh,Wheat,Red Soil,Rainfed,528.0,21.9,71.6,33.0,156.6,4.9,6.2,3.27
+Tamil Nadu,Maize,Loamy,Rainfed,669.0,24.8,70.4,48.4,82.3,10.0,4.2,5.43
+Tamil Nadu,Wheat,Loamy,Drip,918.6,31.1,90.8,50.0,32.2,14.1,4.8,5.91
+Maharashtra,Rice,Red Soil,Canal,331.3,30.0,43.9,40.4,79.3,7.7,0.0,4.34
+Maharashtra,Groundnut,Red Soil,Drip,818.3,26.4,36.9,45.2,95.5,8.7,1.9,5.61
+West Bengal,Maize,Black Soil,Sprinkler,551.4,31.2,92.7,38.1,103.8,9.0,3.6,4.89
+Punjab,Cotton,Sandy,Rainfed,783.6,28.6,77.0,42.8,70.2,2.2,3.6,4.65
+West Bengal,Cotton,Loamy,Canal,702.5,26.0,61.1,39.5,154.5,5.8,3.4,5.92
+Punjab,Sugarcane,Sandy,Sprinkler,1243.3,27.3,70.1,72.2,90.1,5.5,4.3,6.89
+West Bengal,Wheat,Black Soil,Sprinkler,693.5,26.2,70.9,47.2,137.7,9.5,4.4,5.75
+Andhra Pradesh,Maize,Red Soil,Sprinkler,1185.4,23.3,60.9,48.2,116.9,9.2,5.1,6.22
+Maharashtra,Sugarcane,Sandy,Drip,909.1,33.0,69.7,63.6,147.8,6.6,4.7,5.83
+Tamil Nadu,Maize,Red Soil,Rainfed,603.7,25.7,72.3,37.7,106.7,5.3,5.7,4.32
+Punjab,Wheat,Red Soil,Sprinkler,852.8,24.7,92.2,48.2,82.6,1.9,5.7,4.18
+Punjab,Cotton,Clay,Rainfed,713.0,21.9,79.6,48.5,94.0,7.0,3.8,4.94
+Tamil Nadu,Rice,Sandy,Drip,833.3,18.0,88.9,36.6,94.5,4.1,7.2,4.72
+West Bengal,Cotton,Sandy,Sprinkler,622.9,30.8,51.9,35.6,187.3,3.8,5.9,5.05
+Punjab,Sugarcane,Red Soil,Drip,1151.8,31.2,63.8,63.7,117.7,9.8,2.0,7.6
+Andhra Pradesh,Groundnut,Black Soil,Drip,983.6,32.8,70.9,48.2,115.2,9.5,4.2,6.45
+Maharashtra,Rice,Clay,Rainfed,787.0,27.4,44.9,50.7,145.9,5.5,0.2,6.06
+Tamil Nadu,Sugarcane,Red Soil,Sprinkler,1160.4,26.7,82.2,51.3,115.0,2.3,0.5,7.25
+Maharashtra,Wheat,Loamy,Drip,796.3,26.0,75.7,44.3,154.3,4.5,2.6,6.99
+Punjab,Rice,Loamy,Sprinkler,1021.5,26.3,63.6,61.2,102.0,10.0,1.9,7.4
+Punjab,Sugarcane,Clay,Rainfed,788.4,32.5,65.8,47.3,98.4,8.4,2.6,5.87
+Tamil Nadu,Wheat,Black Soil,Drip,866.7,27.9,83.0,44.6,80.7,5.6,4.1,6.31
+Andhra Pradesh,Cotton,Red Soil,Rainfed,762.1,29.5,58.5,40.0,179.8,7.2,5.7,4.78
+Karnataka,Groundnut,Sandy,Sprinkler,801.0,26.2,83.5,41.5,112.6,0.8,5.6,4.39
+Tamil Nadu,Wheat,Clay,Sprinkler,817.5,33.3,65.0,52.9,73.9,0.5,4.2,5.39
+Karnataka,Maize,Black Soil,Rainfed,632.7,20.4,77.1,45.4,121.9,12.9,1.5,5.45
+West Bengal,Wheat,Sandy,Canal,691.8,23.1,69.0,35.4,92.2,8.5,2.5,4.86
+Karnataka,Wheat,Loamy,Drip,732.3,29.5,94.8,43.8,101.4,7.0,4.6,5.95
+Andhra Pradesh,Groundnut,Loamy,Sprinkler,830.5,35.0,57.4,45.4,125.9,5.8,2.0,5.15
+West Bengal,Maize,Sandy,Sprinkler,773.3,27.1,61.1,46.2,168.2,1.7,1.2,6.44
+Karnataka,Sugarcane,Clay,Drip,1038.1,24.6,49.9,47.3,118.6,10.0,4.4,6.89
+West Bengal,Sugarcane,Loamy,Rainfed,966.4,32.0,54.8,55.7,90.1,3.6,3.4,5.76
+Karnataka,Wheat,Red Soil,Rainfed,736.8,29.3,76.6,43.4,97.3,9.1,3.1,5.46
+Andhra Pradesh,Maize,Sandy,Rainfed,1084.0,33.2,87.2,54.3,138.0,7.4,5.5,5.42
+Karnataka,Maize,Sandy,Canal,1192.1,22.8,77.9,50.1,46.5,6.8,5.5,5.37
+Karnataka,Groundnut,Loamy,Canal,330.4,32.8,67.9,28.9,78.5,3.1,6.7,3.49
+Karnataka,Cotton,Clay,Sprinkler,985.1,21.8,57.3,65.6,122.4,3.1,2.3,6.62
+Tamil Nadu,Sugarcane,Red Soil,Rainfed,627.5,26.8,78.8,51.5,55.3,8.2,4.3,4.97
+Tamil Nadu,Groundnut,Clay,Drip,956.2,29.7,56.6,48.5,104.1,7.2,3.5,5.86
+Tamil Nadu,Rice,Black Soil,Sprinkler,1052.4,28.7,51.8,60.5,98.3,7.1,4.1,7.13
+Andhra Pradesh,Sugarcane,Black Soil,Drip,587.1,32.2,64.3,47.0,145.7,7.9,1.5,6.78
+West Bengal,Groundnut,Loamy,Sprinkler,372.5,20.7,43.6,30.6,106.2,1.2,1.0,4.98
+Punjab,Sugarcane,Loamy,Canal,963.8,28.6,51.4,44.7,156.5,10.0,3.4,7.39
+Karnataka,Cotton,Loamy,Sprinkler,809.8,32.8,90.6,49.3,117.8,5.9,2.0,6.26
+Karnataka,Rice,Black Soil,Canal,412.9,28.2,49.2,36.9,177.2,10.5,5.2,5.43
+Andhra Pradesh,Cotton,Clay,Sprinkler,1336.5,23.4,53.7,56.0,66.4,1.0,0.8,6.74
+Karnataka,Rice,Clay,Rainfed,917.4,32.0,68.9,52.3,171.6,8.7,0.9,6.57
+Tamil Nadu,Wheat,Loamy,Drip,927.4,25.4,69.5,39.5,100.6,8.7,2.8,6.48
+Punjab,Groundnut,Red Soil,Rainfed,1080.5,24.7,65.2,52.7,166.6,2.5,0.7,5.4
+Maharashtra,Rice,Clay,Sprinkler,652.2,24.2,44.0,33.9,156.5,5.1,6.5,5.03
+Karnataka,Cotton,Black Soil,Sprinkler,808.7,27.2,78.2,38.0,30.0,3.8,3.2,4.97
+Tamil Nadu,Sugarcane,Sandy,Sprinkler,489.7,28.7,62.7,33.0,131.8,9.6,2.4,5.61
+Maharashtra,Rice,Sandy,Canal,646.3,22.9,82.6,43.3,149.9,7.9,4.3,5.91
+Punjab,Groundnut,Sandy,Drip,,23.7,60.3,42.6,161.5,11.8,5.1,6.08
+Maharashtra,Rice,Red Soil,Drip,413.6,25.2,79.8,28.0,73.8,7.6,3.9,4.19
+Tamil Nadu,Maize,Loamy,Sprinkler,640.0,24.2,83.6,43.9,135.7,9.2,3.4,5.82
+West Bengal,Sugarcane,Black Soil,Sprinkler,575.9,28.1,62.4,48.4,121.8,10.5,1.7,6.92
+West Bengal,Groundnut,Red Soil,Canal,811.3,29.4,78.6,49.1,130.1,8.7,4.6,5.3
+Maharashtra,Groundnut,Black Soil,Rainfed,906.4,28.9,52.1,58.5,150.0,5.8,6.1,5.73
+Andhra Pradesh,Wheat,Black Soil,Rainfed,943.3,28.9,71.2,57.0,155.5,5.3,3.1,6.05
+Maharashtra,Cotton,Loamy,Drip,999.7,34.7,82.7,47.1,92.0,6.8,2.0,5.98
+Karnataka,Wheat,Sandy,Canal,1081.9,29.7,74.2,55.8,124.3,9.4,3.8,5.84
+Karnataka,Groundnut,Loamy,Sprinkler,913.6,31.1,95.0,47.3,116.4,4.7,3.5,4.68
+West Bengal,Sugarcane,Red Soil,Drip,1195.2,26.3,74.9,61.3,106.6,9.0,1.3,7.59
+Andhra Pradesh,Rice,Red Soil,Canal,806.3,31.8,63.6,44.6,110.0,8.0,2.6,5.34
+Tamil Nadu,Rice,Red Soil,Rainfed,741.9,26.2,95.0,38.8,121.9,3.2,6.7,4.11
+Karnataka,Sugarcane,Loamy,Canal,913.6,29.6,87.6,56.1,93.9,8.8,1.1,6.87
+West Bengal,Groundnut,Black Soil,Rainfed,732.4,22.5,48.8,45.2,145.9,7.4,2.3,5.61
+Punjab,Rice,Black Soil,Canal,1187.6,28.7,58.6,50.7,159.4,5.3,1.8,6.75
+West Bengal,Rice,Clay,Drip,1028.8,24.1,55.5,47.7,86.3,7.4,2.0,6.85
+Karnataka,Rice,Red Soil,Rainfed,945.1,31.7,75.7,44.6,161.1,5.5,2.7,5.3
+Karnataka,Cotton,Black Soil,Drip,808.9,31.5,74.9,39.2,86.3,7.7,4.3,5.68
+West Bengal,Cotton,Clay,Drip,690.4,26.1,74.8,39.4,146.4,6.5,5.9,5.64
+Tamil Nadu,Maize,Black Soil,Rainfed,934.3,36.2,48.4,50.6,161.1,2.4,3.9,5.55
+Maharashtra,Wheat,Red Soil,Rainfed,532.0,26.9,60.3,38.7,111.7,6.6,2.3,4.43
+Karnataka,Sugarcane,Sandy,Sprinkler,1117.6,21.6,66.2,50.3,86.6,5.7,6.3,5.51
+West Bengal,Sugarcane,Red Soil,Sprinkler,740.9,24.9,46.1,52.5,94.4,8.9,0.0,6.42
+West Bengal,Sugarcane,Loamy,Sprinkler,847.1,23.8,57.5,34.1,127.7,9.6,4.7,6.36
+Andhra Pradesh,Maize,Black Soil,Drip,579.9,29.5,84.3,41.3,183.8,5.5,1.7,5.8
+Maharashtra,Cotton,Black Soil,Drip,939.1,23.1,49.4,47.6,55.8,4.6,3.4,5.0
+Punjab,Groundnut,Loamy,Sprinkler,680.2,25.8,85.5,36.2,118.5,2.0,4.5,5.52
+Tamil Nadu,Groundnut,Loamy,Drip,922.8,29.3,81.1,50.3,111.9,4.6,0.6,6.45
+Punjab,Maize,Sandy,Drip,946.6,28.6,64.5,47.3,99.0,6.0,3.8,6.19
+Maharashtra,Groundnut,Black Soil,Rainfed,637.5,27.9,60.2,48.4,112.2,3.0,3.9,4.33
+Maharashtra,Sugarcane,Black Soil,Rainfed,532.8,28.5,78.0,43.5,96.0,9.7,6.1,4.63
+Maharashtra,Wheat,Sandy,Drip,1117.0,26.5,58.5,64.4,158.5,7.8,8.4,5.7
+Punjab,Rice,Clay,Sprinkler,737.7,21.6,59.1,40.5,162.0,6.6,0.7,6.29
+Maharashtra,Cotton,Sandy,Canal,829.5,26.4,67.7,54.1,118.1,6.9,6.1,5.08
+West Bengal,Cotton,Red Soil,Sprinkler,886.8,29.9,42.4,40.2,110.1,7.9,3.4,5.42
+Punjab,Maize,Black Soil,Canal,504.2,27.5,50.6,36.9,97.7,8.9,2.0,6.12
+Maharashtra,Cotton,Loamy,Sprinkler,881.8,29.6,64.2,44.3,118.2,9.4,4.2,5.72
+West Bengal,Sugarcane,Red Soil,Rainfed,801.8,25.7,73.7,48.7,179.7,6.1,1.2,6.17
+Andhra Pradesh,Groundnut,Black Soil,Drip,638.4,32.0,58.4,44.4,111.4,6.6,1.3,5.25
+Maharashtra,Sugarcane,Sandy,Drip,525.6,18.0,65.6,32.7,85.6,7.5,0.4,4.64
+Punjab,Maize,Red Soil,Rainfed,913.3,28.6,48.6,51.8,101.1,6.5,4.5,5.44
+Karnataka,Sugarcane,Black Soil,Canal,1028.1,33.4,79.2,48.4,141.4,9.6,4.1,6.41
+Maharashtra,Groundnut,Clay,Canal,819.3,34.0,70.6,40.6,89.9,10.7,2.0,5.4
+Karnataka,Wheat,Clay,Canal,464.4,27.1,71.7,36.5,113.8,8.0,6.2,4.82
+West Bengal,Maize,Loamy,Rainfed,547.4,22.7,73.9,29.8,131.6,4.3,2.3,5.11
+Andhra Pradesh,Wheat,Black Soil,Canal,684.9,33.5,68.9,47.7,92.5,8.5,5.8,4.82
+Tamil Nadu,Rice,Clay,Rainfed,1124.2,27.8,62.2,52.8,53.2,8.2,3.7,6.02
+Andhra Pradesh,Wheat,Sandy,Sprinkler,725.7,27.4,81.6,42.9,77.5,4.0,2.3,4.89
+Maharashtra,Rice,Black Soil,Sprinkler,676.9,24.4,69.9,41.4,84.9,8.1,3.3,4.87
+Karnataka,Rice,Sandy,Rainfed,411.8,23.0,66.0,45.2,107.0,5.4,1.2,3.8
+Karnataka,Wheat,Sandy,Drip,635.5,30.3,67.9,50.0,116.6,9.2,3.9,5.4
+Punjab,Maize,Clay,Sprinkler,508.8,30.7,67.6,45.8,143.8,8.5,3.6,5.3
+Karnataka,Groundnut,Black Soil,Canal,559.3,28.8,65.9,38.5,72.0,7.7,4.4,4.65
+Punjab,Sugarcane,Red Soil,Rainfed,806.4,24.9,73.4,38.5,138.7,7.1,5.1,4.71
+West Bengal,Sugarcane,Clay,Canal,691.7,23.7,56.8,42.2,102.0,0.6,3.7,5.29
+Tamil Nadu,Groundnut,Clay,Canal,1153.9,22.3,57.6,55.7,52.5,3.4,0.8,5.23
+Maharashtra,Rice,Black Soil,Drip,1017.2,25.8,74.7,55.3,115.5,6.6,5.2,6.22
+Punjab,Rice,Black Soil,Canal,646.0,24.0,66.3,43.0,161.1,11.6,3.5,6.14
+Tamil Nadu,Maize,Sandy,Drip,578.3,21.2,79.7,33.3,145.9,8.7,0.1,5.49
+Karnataka,Cotton,Black Soil,Sprinkler,1084.2,30.6,72.9,48.9,112.3,12.4,4.1,6.4
+Karnataka,Wheat,Sandy,Rainfed,1145.2,22.7,61.4,,154.4,7.2,4.2,5.05
+Tamil Nadu,Rice,Clay,Canal,297.3,31.9,74.9,35.7,121.7,6.9,2.9,4.49
+Karnataka,Sugarcane,Loamy,Rainfed,800.4,29.6,82.4,48.4,149.3,11.3,3.1,5.69
+West Bengal,Maize,Red Soil,Canal,724.6,29.2,73.4,47.3,56.8,6.5,2.4,5.34
+West Bengal,Wheat,Clay,Rainfed,922.8,34.7,76.0,49.9,71.3,4.0,4.2,4.96
+Tamil Nadu,Maize,Black Soil,Canal,1207.4,22.9,65.9,42.8,140.5,8.0,3.8,6.95
+Punjab,Wheat,Red Soil,Canal,673.5,31.5,79.9,31.5,168.9,10.4,1.9,5.63
+Punjab,Wheat,Loamy,Canal,326.6,26.8,61.0,32.3,129.6,4.5,6.4,4.01
+Tamil Nadu,Groundnut,Loamy,Canal,907.4,38.3,72.1,48.3,97.6,8.8,2.3,5.67
+Punjab,Rice,Sandy,Canal,1085.8,26.5,95.0,59.7,85.2,6.7,0.0,6.56
+Punjab,Maize,Red Soil,Canal,713.2,25.8,74.5,43.3,104.0,8.4,2.7,5.25
+West Bengal,Maize,Sandy,Canal,624.9,29.7,63.0,34.8,157.5,7.9,5.4,4.61
+Punjab,Groundnut,Clay,Canal,683.8,27.2,62.9,46.1,103.0,5.8,3.1,5.56
+Andhra Pradesh,Sugarcane,Red Soil,Canal,967.0,25.0,67.1,49.1,151.7,6.7,0.6,6.72
+Maharashtra,Sugarcane,Clay,Rainfed,680.0,24.1,78.2,39.6,137.8,5.9,1.6,5.79
+Karnataka,Rice,Sandy,Drip,852.3,33.8,69.7,36.6,175.0,7.4,1.6,6.54
+Andhra Pradesh,Rice,Red Soil,Canal,786.1,23.3,60.2,45.2,122.0,4.5,2.5,5.02
+Punjab,Cotton,Sandy,Drip,763.4,28.9,60.2,45.5,113.3,5.2,3.0,5.28
+West Bengal,Groundnut,Red Soil,Canal,934.3,32.2,69.8,42.4,153.4,5.8,4.4,5.54
+Tamil Nadu,Sugarcane,Sandy,Canal,674.7,32.4,68.5,46.3,82.3,8.2,3.7,5.39
+Punjab,Wheat,Loamy,Rainfed,685.3,25.6,73.5,46.1,99.5,2.8,3.8,5.35
+West Bengal,Maize,Sandy,Sprinkler,955.5,27.2,79.0,49.2,56.2,6.7,6.7,5.42
+Maharashtra,Rice,Loamy,Sprinkler,562.9,26.4,95.0,39.1,71.1,4.9,5.0,5.35
+Punjab,Maize,Sandy,Rainfed,586.4,21.9,50.5,45.3,182.3,5.8,4.9,4.75
+Tamil Nadu,Maize,Red Soil,Drip,502.7,30.2,76.2,39.8,139.2,5.0,0.2,5.36
+West Bengal,Cotton,Red Soil,Sprinkler,966.8,28.2,69.2,45.0,67.0,7.6,2.1,6.43
+West Bengal,Sugarcane,Red Soil,Rainfed,,33.8,45.9,42.7,156.8,6.5,0.6,5.77
+West Bengal,Rice,Black Soil,Rainfed,491.0,24.7,83.0,40.6,90.4,9.1,2.1,4.9
+Maharashtra,Maize,Clay,Sprinkler,967.8,32.4,73.1,37.0,137.4,8.2,4.9,5.51
+Punjab,Rice,Red Soil,Drip,657.8,32.6,77.6,35.9,136.9,2.4,2.8,5.55
+Maharashtra,Wheat,Loamy,Rainfed,588.2,28.2,47.6,43.8,173.3,4.1,5.4,5.27
+Karnataka,Cotton,Red Soil,Canal,737.0,19.3,65.4,50.7,96.2,6.5,4.7,4.62
+Karnataka,Wheat,Black Soil,Drip,1105.3,25.9,55.0,58.8,89.1,6.9,3.6,6.48
+Punjab,Rice,Loamy,Drip,693.1,35.1,94.0,47.7,30.0,4.4,5.5,5.32
+Maharashtra,Rice,Black Soil,Sprinkler,906.6,29.2,81.7,48.4,110.7,10.9,6.0,6.35
+Tamil Nadu,Sugarcane,Loamy,Sprinkler,940.0,30.8,59.8,42.3,140.4,9.6,4.3,6.7
+West Bengal,Maize,Sandy,Canal,877.5,27.6,49.6,45.8,145.2,2.1,3.9,5.3
+West Bengal,Maize,Clay,Rainfed,1059.6,27.1,70.3,39.5,158.8,8.0,4.6,5.79
+Punjab,Wheat,Clay,Sprinkler,624.4,20.5,81.1,48.4,125.1,6.9,1.0,5.43
+Karnataka,Cotton,Black Soil,Sprinkler,550.5,31.2,47.2,33.9,132.7,10.7,3.3,5.08
+Karnataka,Groundnut,Clay,Drip,546.1,32.3,56.8,35.5,117.4,2.3,3.5,4.38
+West Bengal,Maize,Black Soil,Sprinkler,748.2,24.2,54.7,50.1,139.8,13.2,2.8,5.95
+Punjab,Sugarcane,Black Soil,Sprinkler,571.6,27.3,78.4,29.6,82.3,4.5,2.1,5.97
+Maharashtra,Wheat,Black Soil,Sprinkler,812.5,26.7,63.6,38.2,65.7,8.1,5.3,5.39
+Karnataka,Wheat,Clay,Sprinkler,796.9,29.7,64.1,46.5,86.0,5.2,3.8,5.48
+Maharashtra,Groundnut,Black Soil,Drip,1004.1,25.8,70.1,53.2,122.5,5.9,4.0,6.56
+Karnataka,Sugarcane,Clay,Canal,844.1,31.7,57.5,45.7,69.5,1.9,6.1,5.48
+Karnataka,Cotton,Black Soil,Canal,688.4,28.3,50.7,42.0,92.8,10.6,3.1,5.23
+Andhra Pradesh,Sugarcane,Red Soil,Rainfed,870.4,18.0,84.4,54.4,94.0,6.2,2.8,5.73
+Karnataka,Cotton,Black Soil,Sprinkler,553.4,29.8,85.5,42.7,142.4,6.4,6.0,5.45
+Tamil Nadu,Sugarcane,Loamy,Drip,771.6,32.0,70.2,47.3,138.1,13.9,0.8,6.82
+Punjab,Sugarcane,Black Soil,Rainfed,850.3,23.4,71.0,50.9,117.5,9.9,3.6,6.49
+Punjab,Rice,Sandy,Rainfed,808.4,29.6,83.1,43.4,130.8,5.0,2.2,5.11
+Maharashtra,Wheat,Black Soil,Canal,871.3,35.3,69.9,59.8,131.5,5.2,4.0,6.16
+Karnataka,Sugarcane,Loamy,Drip,638.3,28.4,63.0,27.1,102.3,7.8,4.5,5.54
+Tamil Nadu,Groundnut,Loamy,Drip,1033.4,32.6,68.5,59.6,96.0,9.3,4.6,6.21
+Maharashtra,Sugarcane,Clay,Drip,1180.9,26.2,84.7,59.9,168.8,12.3,5.3,7.39
+Andhra Pradesh,Maize,Red Soil,Canal,427.4,27.9,68.6,37.2,30.0,2.2,3.0,3.74
+Maharashtra,Wheat,Black Soil,Canal,512.6,27.2,60.0,38.3,89.1,9.2,3.2,4.54
+Maharashtra,Maize,Clay,Canal,789.5,26.5,69.8,43.8,107.9,9.7,4.4,4.76
+Karnataka,Wheat,Red Soil,Canal,723.6,27.4,75.9,49.7,134.6,4.6,5.1,4.86
+Andhra Pradesh,Maize,Black Soil,Canal,1197.2,21.5,74.4,54.7,154.7,5.9,1.2,7.92
+Maharashtra,Sugarcane,Sandy,Sprinkler,828.4,26.7,74.6,41.3,180.0,2.1,4.1,5.85
+Tamil Nadu,Sugarcane,Black Soil,Sprinkler,1086.4,33.4,58.1,57.6,111.8,5.5,2.8,7.6
+Tamil Nadu,Rice,Loamy,Drip,329.2,24.1,77.2,42.7,114.1,7.7,3.7,5.26
+Punjab,Groundnut,Loamy,Rainfed,959.1,23.7,68.3,37.4,127.7,11.8,2.9,5.67
+Andhra Pradesh,Maize,Sandy,Drip,622.6,28.2,59.5,54.7,96.4,12.1,2.2,6.32
+Andhra Pradesh,Cotton,Clay,Rainfed,619.1,28.4,77.1,34.3,73.6,3.9,1.7,4.54
+Punjab,Rice,Red Soil,Canal,725.4,29.5,62.6,37.4,111.6,11.4,3.2,5.51
+Maharashtra,Maize,Black Soil,Rainfed,466.6,27.5,49.1,29.2,141.1,1.2,4.1,4.47
+Andhra Pradesh,Maize,Loamy,Drip,877.4,28.3,56.0,46.9,106.5,5.2,2.4,6.74
+Tamil Nadu,Rice,Clay,Drip,822.0,26.6,65.8,37.9,129.5,6.1,5.6,5.41
+Tamil Nadu,Sugarcane,Sandy,Rainfed,838.6,22.9,74.9,39.0,49.6,7.8,7.9,4.48
+Karnataka,Maize,Loamy,Sprinkler,975.1,27.7,57.6,45.2,115.6,7.3,4.2,5.81
+Andhra Pradesh,Sugarcane,Sandy,Canal,1113.3,30.9,65.1,53.7,100.9,8.1,3.4,6.7
+Maharashtra,Rice,Black Soil,Canal,700.0,30.1,53.4,43.9,70.4,6.5,1.9,5.6
+Punjab,Sugarcane,Red Soil,Drip,885.0,21.0,79.8,54.6,138.0,9.9,4.2,6.86
+Punjab,Wheat,Loamy,Sprinkler,844.5,29.0,88.6,53.4,179.6,9.1,6.2,6.53
+Maharashtra,Cotton,Loamy,Rainfed,863.1,24.4,87.3,52.7,149.6,6.1,7.0,4.54
+West Bengal,Maize,Black Soil,Canal,866.4,33.6,79.6,45.1,151.9,9.5,6.0,5.86
+Karnataka,Groundnut,Clay,Sprinkler,1129.9,29.3,78.4,42.2,139.9,13.2,5.0,6.74
+Punjab,Cotton,Red Soil,Canal,678.9,31.6,43.1,30.8,137.6,5.0,4.2,5.67
+Andhra Pradesh,Sugarcane,Loamy,Sprinkler,444.3,28.1,70.1,42.2,52.0,12.0,1.6,5.87
+Karnataka,Maize,Red Soil,Sprinkler,626.5,27.7,62.0,45.7,110.5,5.2,3.3,5.02
+Andhra Pradesh,Sugarcane,Loamy,Drip,946.6,34.0,78.6,45.0,132.8,11.2,3.1,7.09
+Tamil Nadu,Wheat,Red Soil,Canal,785.1,31.9,37.5,36.0,133.6,5.4,3.3,5.63
+Karnataka,Rice,Sandy,Rainfed,677.1,28.5,70.3,35.6,159.5,9.3,2.2,5.14
+Punjab,Maize,Loamy,Drip,543.2,27.2,65.4,39.6,78.9,7.5,4.9,5.49
+Karnataka,Wheat,Red Soil,Drip,828.7,21.2,81.4,46.8,136.3,1.6,3.0,5.48
+Karnataka,Wheat,Clay,Rainfed,921.8,29.3,86.6,54.3,77.7,12.7,2.9,5.74
+Karnataka,Maize,Sandy,Drip,847.3,27.5,56.9,43.5,107.6,4.3,2.2,5.61
+West Bengal,Sugarcane,Sandy,Sprinkler,724.3,30.2,57.4,41.6,112.8,3.2,3.9,5.93
+Karnataka,Groundnut,Clay,Sprinkler,812.3,31.4,70.8,52.1,145.2,5.1,6.2,4.7
+Andhra Pradesh,Wheat,Red Soil,Canal,811.0,32.9,88.8,32.5,141.1,14.6,3.5,5.64
+Tamil Nadu,Cotton,Black Soil,Canal,821.7,29.3,68.7,47.4,119.2,3.2,4.0,5.3
+Maharashtra,Wheat,Clay,Rainfed,519.5,23.8,52.7,36.0,39.7,7.5,7.0,4.0
+Karnataka,Groundnut,Red Soil,Canal,823.4,19.4,60.7,49.9,130.6,3.6,5.7,4.75
+Punjab,Sugarcane,Clay,Sprinkler,683.1,24.7,70.4,45.2,105.6,4.1,4.6,5.98
+Karnataka,Sugarcane,Clay,Rainfed,1008.9,33.3,70.9,46.0,163.7,2.2,4.5,6.26
+Punjab,Cotton,Loamy,Rainfed,809.2,35.3,59.6,42.2,155.4,7.9,2.4,5.26
+Andhra Pradesh,Wheat,Red Soil,Canal,963.8,27.0,60.5,35.3,82.2,6.5,2.2,5.33
+Punjab,Sugarcane,Black Soil,Sprinkler,713.6,22.2,56.2,47.3,135.4,3.6,3.8,6.58
+Maharashtra,Groundnut,Loamy,Rainfed,721.5,25.4,81.7,44.5,136.1,9.6,3.8,4.73
+Tamil Nadu,Maize,Clay,Sprinkler,1108.7,32.6,58.0,61.1,133.5,9.9,2.0,6.96
+Punjab,Rice,Clay,Sprinkler,876.0,25.6,62.4,44.5,129.0,8.2,4.8,5.73
+Punjab,Rice,Clay,Sprinkler,622.8,30.4,62.1,46.1,137.1,10.5,3.0,6.7
+Tamil Nadu,Rice,Red Soil,Canal,977.3,28.7,48.7,43.0,167.6,6.0,5.5,5.94
+Maharashtra,Wheat,Red Soil,Drip,662.7,30.8,57.6,25.3,95.7,8.0,3.4,4.99
+Karnataka,Cotton,Loamy,Drip,829.7,35.3,82.7,45.2,83.3,6.0,3.2,5.74
+Punjab,Sugarcane,Black Soil,Rainfed,1184.1,30.4,53.5,51.2,142.4,2.5,1.8,6.5
+Tamil Nadu,Maize,Loamy,Sprinkler,465.1,28.6,56.4,30.3,49.1,7.7,2.0,4.41
+Andhra Pradesh,Groundnut,Sandy,Canal,741.3,35.7,52.0,48.9,137.9,7.5,5.9,4.62
+Tamil Nadu,Maize,Clay,Sprinkler,869.8,29.4,66.9,54.0,131.7,6.9,4.0,6.23
+Andhra Pradesh,Groundnut,Clay,Sprinkler,948.2,24.8,90.6,49.3,32.9,8.1,4.2,5.34
+Maharashtra,Wheat,Clay,Canal,506.9,30.7,66.4,36.6,92.7,11.2,6.4,4.64
+Karnataka,Rice,Loamy,Drip,442.1,29.8,68.8,36.4,170.2,6.4,1.1,5.72
+Tamil Nadu,Wheat,Loamy,Sprinkler,1020.0,26.8,58.5,46.6,64.0,4.1,4.7,5.68
+West Bengal,Cotton,Clay,Sprinkler,621.5,25.9,67.3,43.9,122.4,6.3,0.6,5.76
+Punjab,Cotton,Loamy,Drip,612.3,26.8,82.7,31.1,79.8,6.6,2.7,5.1
+Maharashtra,Groundnut,Red Soil,Canal,1121.1,25.9,69.7,46.6,90.2,10.0,1.4,5.94
+Tamil Nadu,Sugarcane,Red Soil,Rainfed,795.3,26.9,93.6,40.1,182.1,7.3,5.0,5.51
+Punjab,Sugarcane,Loamy,Drip,796.8,24.6,83.1,48.2,119.3,3.6,0.1,6.89
+Tamil Nadu,Groundnut,Clay,Rainfed,740.4,29.5,67.0,41.7,133.1,9.4,3.1,5.63
+Andhra Pradesh,Cotton,Loamy,Rainfed,510.7,29.2,66.7,45.9,,8.9,1.4,5.47
+Tamil Nadu,Cotton,Loamy,Drip,928.7,29.4,87.6,,62.0,7.3,2.0,6.71
+West Bengal,Cotton,Loamy,Sprinkler,870.1,27.8,69.6,41.9,73.5,9.8,2.2,5.9
+Tamil Nadu,Wheat,Sandy,Rainfed,817.1,27.3,84.9,49.2,156.2,10.3,5.9,5.11
+Tamil Nadu,Cotton,Red Soil,Rainfed,754.4,33.8,92.0,41.4,120.4,5.9,2.9,4.31
+West Bengal,Maize,Black Soil,Canal,715.7,28.3,65.5,45.7,88.0,4.3,6.6,5.09
+Maharashtra,Rice,Black Soil,Sprinkler,980.7,33.1,72.2,54.6,114.2,7.0,7.0,5.88
+Tamil Nadu,Cotton,Sandy,Rainfed,748.9,24.0,79.8,50.4,138.2,8.6,7.3,4.32
+West Bengal,Groundnut,Loamy,Canal,765.9,30.4,77.2,45.4,130.9,6.7,3.4,5.46
+Punjab,Rice,Sandy,Sprinkler,896.6,25.1,77.1,57.0,88.1,4.0,3.9,5.11
+Andhra Pradesh,Wheat,Sandy,Drip,825.8,25.8,52.0,48.3,59.9,7.5,4.2,4.66
+Andhra Pradesh,Groundnut,Clay,Drip,1141.3,26.4,57.8,54.3,100.8,0.9,2.8,6.11
+Tamil Nadu,Rice,Red Soil,Canal,392.5,26.1,62.1,33.0,153.8,6.0,4.3,4.94
+Maharashtra,Groundnut,Black Soil,Drip,846.0,26.1,82.6,42.4,144.9,9.6,1.8,6.35
+Maharashtra,Wheat,Loamy,Rainfed,624.8,32.9,53.2,43.1,129.4,9.7,0.1,5.29
+Punjab,Maize,Black Soil,Sprinkler,572.7,28.2,86.3,39.9,109.0,0.0,4.8,5.17
+Tamil Nadu,Wheat,Black Soil,Rainfed,679.4,28.9,77.4,43.6,96.9,6.4,2.9,5.56
+Andhra Pradesh,Wheat,Red Soil,Rainfed,792.0,26.2,81.9,47.7,109.7,8.8,1.7,5.27
+Maharashtra,Groundnut,Black Soil,Drip,801.8,31.4,56.8,46.6,142.4,3.5,2.0,5.54
+Tamil Nadu,Sugarcane,Black Soil,Rainfed,446.2,29.4,68.9,48.2,150.4,5.9,6.2,4.71
+Maharashtra,Cotton,Sandy,Drip,661.0,26.8,71.6,38.4,105.8,10.6,4.3,5.2
+West Bengal,Cotton,Red Soil,Sprinkler,841.9,21.7,71.1,48.6,203.8,5.5,0.8,5.62
+Maharashtra,Maize,Clay,Sprinkler,587.1,28.9,71.5,38.3,118.2,11.8,1.4,5.49
+Andhra Pradesh,Maize,Loamy,Rainfed,534.7,30.3,64.7,23.6,102.9,4.8,3.0,4.59
+Karnataka,Cotton,Black Soil,Canal,283.7,24.1,69.6,30.9,166.6,11.2,4.4,4.14
+Punjab,Sugarcane,Loamy,Drip,634.1,26.8,80.4,35.2,43.7,7.1,2.1,5.66
+Punjab,Cotton,Clay,Drip,527.1,30.1,54.0,37.8,131.8,4.4,3.2,5.36
+Andhra Pradesh,Sugarcane,Loamy,Rainfed,563.5,21.7,86.6,38.9,112.5,11.2,3.7,5.13
+Maharashtra,Maize,Clay,Drip,720.2,25.4,79.8,45.3,165.7,3.4,3.7,5.43
+Tamil Nadu,Rice,Sandy,Drip,648.0,29.5,56.4,38.0,136.2,4.6,0.0,5.46
+Maharashtra,Groundnut,Black Soil,Canal,523.4,32.4,72.6,35.7,119.9,8.5,3.9,5.06
+Andhra Pradesh,Maize,Clay,Canal,314.5,36.7,78.8,37.1,138.2,7.2,0.4,5.61
+Punjab,Maize,Loamy,Rainfed,846.5,35.8,53.2,41.3,78.1,7.8,3.0,5.39
+Maharashtra,Wheat,Black Soil,Canal,945.6,28.6,68.5,37.6,148.8,5.9,2.6,5.37
+Punjab,Wheat,Sandy,Rainfed,692.7,26.1,67.1,43.3,67.9,3.4,1.6,4.65
+Tamil Nadu,Wheat,Black Soil,Sprinkler,721.5,31.7,60.3,49.5,127.5,5.0,5.0,5.51
+Punjab,Groundnut,Clay,Rainfed,780.6,25.8,69.1,48.7,116.2,11.0,1.5,5.27
+Punjab,Wheat,Sandy,Sprinkler,1127.3,25.0,60.8,54.2,53.3,3.0,2.6,5.45
+Karnataka,Sugarcane,Loamy,Rainfed,435.1,26.8,84.5,43.4,117.4,11.9,5.1,4.91
+Karnataka,Cotton,Sandy,Drip,688.8,26.3,60.5,48.7,124.9,7.9,2.5,4.85
+West Bengal,Rice,Sandy,Canal,401.2,29.7,77.5,33.0,92.1,5.2,2.1,4.41
+Karnataka,Maize,Red Soil,Sprinkler,859.7,25.6,48.1,48.0,79.6,1.0,3.0,5.9
+Punjab,Sugarcane,Sandy,Rainfed,748.3,28.3,66.1,45.5,132.2,1.4,4.5,4.64
+Andhra Pradesh,Rice,Sandy,Canal,824.7,34.4,68.1,45.1,127.7,5.9,6.1,5.68
+Punjab,Sugarcane,Black Soil,Rainfed,813.7,28.5,65.7,52.1,122.9,5.6,1.8,6.32
+Andhra Pradesh,Sugarcane,Loamy,Canal,998.0,34.1,63.2,49.0,115.3,7.4,2.0,6.63
+Andhra Pradesh,Maize,Black Soil,Canal,898.4,32.8,60.0,44.5,95.2,12.2,3.0,6.03
+Karnataka,Cotton,Black Soil,Rainfed,962.7,30.4,77.1,33.5,194.5,8.6,3.9,5.47
+Maharashtra,Wheat,Clay,Sprinkler,545.6,26.6,80.0,33.8,104.6,6.6,2.1,5.17
+Tamil Nadu,Groundnut,Black Soil,Sprinkler,1042.5,32.2,67.0,43.2,84.7,10.7,4.7,6.16
+Karnataka,Cotton,Red Soil,Drip,621.1,27.0,54.8,40.3,116.9,7.5,1.8,4.49
+Karnataka,Groundnut,Red Soil,Canal,633.7,28.0,89.5,33.3,108.7,11.8,0.1,6.22
+Maharashtra,Maize,Clay,Drip,839.6,29.3,57.4,49.6,103.7,5.0,4.5,5.13
+Tamil Nadu,Maize,Loamy,Drip,846.4,28.0,50.5,52.8,180.6,3.6,4.7,6.4
+Punjab,Maize,Loamy,Rainfed,544.2,25.1,43.8,38.4,75.5,1.0,5.4,3.39
+West Bengal,Rice,Black Soil,Rainfed,741.9,21.9,69.2,37.6,116.3,6.7,0.0,5.42
+West Bengal,Groundnut,Black Soil,Rainfed,1107.4,31.8,65.4,54.4,77.8,3.3,2.3,5.34
+Punjab,Cotton,Black Soil,Canal,457.0,30.3,80.4,47.8,96.1,3.3,3.0,4.82
+Karnataka,Cotton,Loamy,Rainfed,1106.7,21.1,75.3,62.2,175.8,10.1,6.7,6.22
+Tamil Nadu,Sugarcane,Sandy,Rainfed,726.8,25.0,71.5,34.7,124.9,1.8,3.2,4.62
+Karnataka,Sugarcane,Red Soil,Canal,265.7,28.7,64.7,23.0,124.4,7.3,1.1,5.0
+Andhra Pradesh,Sugarcane,Sandy,Canal,479.3,29.8,81.3,26.8,82.1,6.8,4.0,4.01
+Karnataka,Maize,Sandy,Sprinkler,568.0,21.9,90.4,32.4,100.1,7.3,5.9,4.29
+Karnataka,Cotton,Loamy,Rainfed,642.7,27.6,80.1,42.6,178.8,11.2,5.5,5.13
+Punjab,Groundnut,Sandy,Rainfed,757.0,30.2,62.4,40.6,132.5,4.5,4.5,4.33
+Punjab,Maize,Clay,Rainfed,250.0,26.6,77.4,26.2,103.1,11.2,4.0,4.4
+Punjab,Rice,Black Soil,Sprinkler,,29.0,63.2,51.8,130.4,1.7,0.0,6.42
+West Bengal,Sugarcane,Clay,Rainfed,547.9,26.0,54.7,41.9,124.4,9.0,3.5,5.27
+Andhra Pradesh,Maize,Red Soil,Sprinkler,1085.9,31.6,57.2,41.9,85.6,11.4,3.8,5.69
+Punjab,Maize,Black Soil,Drip,720.6,24.8,63.7,48.9,102.1,0.0,3.2,6.09
+Tamil Nadu,Rice,Sandy,Sprinkler,987.4,23.4,69.2,52.7,193.9,6.9,4.8,6.59
+West Bengal,Wheat,Red Soil,Drip,1024.3,28.1,92.7,53.8,128.7,6.6,3.2,6.46
+Maharashtra,Cotton,Black Soil,Rainfed,1018.3,22.3,57.4,47.0,60.1,7.2,2.8,5.07
+Tamil Nadu,Groundnut,Sandy,Drip,655.4,19.6,83.9,40.3,132.9,12.1,5.4,4.9
+Tamil Nadu,Wheat,Clay,Sprinkler,652.6,32.3,64.2,29.5,160.6,4.7,2.8,5.83
+Punjab,Sugarcane,Black Soil,Canal,730.5,24.1,43.8,48.5,83.3,3.4,3.6,6.06
+Maharashtra,Maize,Sandy,Drip,920.0,22.7,61.9,42.0,99.0,7.2,5.1,5.59
+Maharashtra,Rice,Clay,Drip,667.6,24.8,82.1,36.5,165.9,10.4,1.7,6.07
+West Bengal,Rice,Red Soil,Rainfed,753.8,24.6,72.1,38.5,116.2,8.7,1.5,5.48
+Maharashtra,Cotton,Red Soil,Sprinkler,840.2,27.4,72.9,56.8,110.0,7.1,5.9,5.84
+Andhra Pradesh,Wheat,Red Soil,Drip,580.9,23.6,83.9,35.5,68.2,6.3,2.4,4.47
+Punjab,Cotton,Red Soil,Drip,567.0,30.0,55.6,44.8,152.5,1.0,4.7,4.76
+Maharashtra,Maize,Loamy,Drip,745.2,30.6,55.4,43.5,108.4,8.8,0.3,6.33
+West Bengal,Cotton,Black Soil,Drip,774.3,22.9,40.8,39.4,39.0,9.1,0.0,5.23
+Andhra Pradesh,Groundnut,Black Soil,Canal,875.5,25.5,78.5,40.8,60.0,4.9,4.2,4.45
+Karnataka,Rice,Loamy,Sprinkler,927.8,25.9,74.7,44.4,95.3,5.6,3.3,6.51
+Karnataka,Rice,Sandy,Rainfed,538.2,27.3,76.7,38.0,77.5,3.9,4.2,4.36
+Andhra Pradesh,Sugarcane,Sandy,Rainfed,601.3,32.3,53.8,43.6,82.9,9.6,6.9,3.89
+West Bengal,Sugarcane,Red Soil,Canal,566.4,32.6,48.7,36.3,197.1,5.9,1.3,5.39
+Andhra Pradesh,Maize,Clay,Sprinkler,1090.7,38.0,52.2,49.2,139.8,6.6,3.6,6.06
+Punjab,Groundnut,Sandy,Drip,753.5,18.9,56.9,38.6,30.0,8.9,6.2,4.72
+Punjab,Wheat,Clay,Canal,783.5,24.3,86.6,37.4,,8.0,1.5,5.67
+Karnataka,Cotton,Black Soil,Sprinkler,792.7,35.3,80.0,37.2,111.9,8.7,2.4,5.58
+Maharashtra,Maize,Clay,Drip,622.6,20.8,62.5,46.5,63.3,7.5,0.3,5.53
+West Bengal,Sugarcane,Black Soil,Canal,1124.1,35.2,71.6,49.9,133.7,7.6,7.5,6.5
+Karnataka,Cotton,Loamy,Sprinkler,870.4,28.6,59.9,44.1,43.6,7.6,0.0,6.39
+Maharashtra,Sugarcane,Loamy,Rainfed,788.7,28.7,72.4,40.7,153.4,8.4,4.9,5.51
+Maharashtra,Cotton,Red Soil,Rainfed,536.8,22.9,54.3,36.5,165.5,8.5,1.1,4.66
+Punjab,Wheat,Sandy,Sprinkler,524.4,26.2,77.0,40.3,197.3,3.3,1.6,5.49
+Tamil Nadu,Maize,Red Soil,Rainfed,712.0,35.0,57.8,39.9,59.9,5.2,5.4,4.14
+Tamil Nadu,Cotton,Black Soil,Sprinkler,626.0,27.8,77.7,41.7,67.0,6.4,2.2,4.93
+Andhra Pradesh,Groundnut,Red Soil,Drip,545.2,26.2,62.9,47.1,139.2,8.4,4.7,4.63
+Punjab,Rice,Clay,Sprinkler,698.4,29.6,58.5,37.5,156.4,11.8,6.0,5.59
+Maharashtra,Groundnut,Black Soil,Drip,732.4,27.2,87.4,40.7,143.3,4.6,3.9,5.75
+West Bengal,Groundnut,Loamy,Canal,811.2,29.4,70.1,49.1,152.8,9.6,5.1,5.7
+Tamil Nadu,Rice,Sandy,Sprinkler,669.1,24.6,64.1,50.7,163.2,5.3,3.6,5.77
+Maharashtra,Groundnut,Black Soil,Canal,558.3,27.7,77.1,31.5,122.1,11.1,3.7,5.11
+Tamil Nadu,Cotton,Black Soil,Rainfed,566.0,25.4,51.9,28.9,107.6,12.7,2.4,4.62
+Tamil Nadu,Cotton,Clay,Drip,1046.9,20.8,81.3,51.2,67.1,1.8,7.0,4.97
+Tamil Nadu,Cotton,Sandy,Sprinkler,504.6,29.9,66.3,37.0,104.6,6.0,4.8,4.43
+West Bengal,Rice,Loamy,Canal,859.9,23.1,75.2,50.7,109.9,0.0,4.4,5.68
+Punjab,Groundnut,Black Soil,Drip,894.3,27.3,49.4,50.6,81.8,1.9,4.9,5.83
+West Bengal,Rice,Black Soil,Drip,753.3,31.7,63.4,43.6,113.7,2.1,2.3,5.72
+Karnataka,Cotton,Clay,Rainfed,1168.9,22.0,68.1,60.5,77.8,8.9,5.2,5.27
+Maharashtra,Groundnut,Red Soil,Rainfed,890.4,30.4,80.4,43.2,154.0,8.3,6.3,4.88
+Punjab,Groundnut,Loamy,Drip,1185.4,26.8,76.2,55.9,129.9,9.4,1.0,7.89
+Punjab,Sugarcane,Sandy,Drip,636.8,24.1,63.3,33.6,98.9,8.8,4.5,4.69
+Punjab,Sugarcane,Black Soil,Sprinkler,640.5,36.1,71.8,40.8,,8.5,3.6,5.71
+Punjab,Wheat,Black Soil,Drip,896.1,28.0,83.1,38.6,76.3,7.3,2.6,6.37
+West Bengal,Maize,Loamy,Sprinkler,722.5,25.7,65.6,,79.9,6.6,1.5,5.79
+Punjab,Sugarcane,Red Soil,Drip,1150.8,24.9,64.3,64.0,92.8,10.1,5.4,7.25
+Andhra Pradesh,Rice,Black Soil,Rainfed,855.2,31.5,45.3,35.4,108.3,7.0,3.9,5.15
+Maharashtra,Sugarcane,Loamy,Sprinkler,550.2,25.6,64.7,37.5,119.9,8.6,3.1,5.19
+Punjab,Wheat,Clay,Canal,397.9,31.0,47.1,39.9,120.1,0.0,4.5,5.14
+Maharashtra,Groundnut,Red Soil,Rainfed,762.8,28.0,66.6,57.4,68.8,3.5,3.3,4.86
+Andhra Pradesh,Wheat,Sandy,Sprinkler,760.4,32.5,79.9,45.1,112.2,9.9,2.2,5.41
+Andhra Pradesh,Groundnut,Black Soil,Sprinkler,849.0,23.8,42.6,47.6,86.4,5.0,3.7,5.11
+Maharashtra,Groundnut,Loamy,Canal,1046.4,24.4,82.8,51.4,30.0,2.8,3.4,5.1
+Tamil Nadu,Maize,Clay,Sprinkler,1017.4,26.9,64.0,56.8,220.0,8.9,0.3,7.72
+Karnataka,Sugarcane,Sandy,Drip,652.6,27.2,67.7,43.9,87.0,7.0,2.4,5.37
+Tamil Nadu,Rice,Loamy,Canal,495.4,26.6,62.0,33.9,89.0,5.8,1.2,5.38
+Tamil Nadu,Rice,Loamy,Rainfed,508.5,38.5,47.4,44.4,67.9,11.5,0.5,5.65
+West Bengal,Cotton,Sandy,Rainfed,617.9,36.3,58.6,37.7,78.0,11.0,4.3,4.26
+Tamil Nadu,Groundnut,Clay,Drip,699.3,29.2,93.2,32.9,108.4,6.4,2.3,5.02
+Punjab,Rice,Clay,Rainfed,847.1,29.7,54.8,36.6,162.3,9.2,5.4,5.79
+West Bengal,Maize,Red Soil,Sprinkler,603.8,27.1,48.9,38.9,108.2,0.3,0.2,5.02
+West Bengal,Groundnut,Black Soil,Sprinkler,841.7,23.8,69.7,46.7,103.7,10.3,3.0,6.0
+Andhra Pradesh,Maize,Sandy,Drip,859.6,27.3,67.0,52.2,157.0,3.7,2.4,5.95
+Tamil Nadu,Rice,Sandy,Rainfed,811.5,31.1,64.1,49.1,96.6,2.6,0.7,6.09
+Andhra Pradesh,Rice,Sandy,Rainfed,531.7,33.2,68.2,38.8,115.7,1.6,3.5,4.11
+Maharashtra,Cotton,Clay,Drip,882.9,32.0,75.7,53.1,82.7,1.4,0.8,5.6
+Karnataka,Rice,Black Soil,Canal,1237.9,22.0,61.0,56.0,174.0,10.2,3.9,7.89
+West Bengal,Groundnut,Red Soil,Rainfed,834.1,26.8,70.3,38.1,151.7,8.9,4.8,5.09
+Maharashtra,Groundnut,Loamy,Canal,250.0,22.1,80.3,22.2,109.6,4.7,4.0,3.23
+Maharashtra,Groundnut,Loamy,Rainfed,1053.0,32.7,56.1,59.0,101.0,9.6,4.2,5.61
+Punjab,Cotton,Sandy,Rainfed,625.4,26.4,40.1,27.2,113.9,5.2,5.4,4.16
+Karnataka,Cotton,Black Soil,Rainfed,1278.5,27.8,76.0,55.8,110.2,8.0,3.5,6.47
+Maharashtra,Rice,Clay,Rainfed,805.6,29.9,95.0,63.0,60.9,5.6,2.0,5.74
+Maharashtra,Wheat,Black Soil,Sprinkler,409.4,39.1,67.9,38.0,152.9,6.6,2.4,4.98
+Karnataka,Wheat,Black Soil,Canal,325.8,29.1,70.4,31.9,107.1,4.3,2.4,4.59
+Karnataka,Cotton,Clay,Canal,1118.7,27.0,64.5,42.9,181.4,4.7,1.6,6.05
+Maharashtra,Rice,Sandy,Rainfed,1023.3,23.0,87.1,60.3,129.8,8.6,4.9,6.0
+Karnataka,Wheat,Black Soil,Rainfed,1269.7,33.8,67.1,64.0,30.0,9.1,4.4,5.71
+Maharashtra,Rice,Loamy,Canal,782.4,27.3,65.8,48.7,70.1,5.8,0.5,5.6
+Maharashtra,Rice,Clay,Sprinkler,767.6,34.6,78.9,44.2,39.9,2.4,2.0,5.99
+Punjab,Rice,Red Soil,Drip,695.8,32.4,62.2,45.8,69.7,14.4,1.5,6.72
+Tamil Nadu,Sugarcane,Sandy,Drip,635.2,26.1,52.6,40.0,57.8,7.1,4.1,4.97
+Maharashtra,Groundnut,Clay,Canal,693.7,22.4,78.6,36.5,123.8,7.9,5.4,4.14
+Andhra Pradesh,Rice,Red Soil,Rainfed,827.8,29.1,60.9,51.4,103.9,3.2,4.3,4.8
+West Bengal,Sugarcane,Red Soil,Rainfed,594.3,25.5,56.3,39.6,140.9,10.6,2.2,6.01
+Tamil Nadu,Cotton,Black Soil,Sprinkler,412.8,28.2,93.2,38.5,113.7,11.1,2.9,5.44
+Tamil Nadu,Wheat,Black Soil,Drip,815.2,32.2,65.9,44.7,106.6,1.9,1.0,5.45
+Tamil Nadu,Groundnut,Black Soil,Sprinkler,589.4,21.4,73.9,42.5,185.1,6.7,1.1,6.08
+Punjab,Wheat,Clay,Drip,250.0,29.1,68.4,31.2,122.8,6.5,5.0,4.64
+Maharashtra,Groundnut,Clay,Canal,901.6,31.0,57.4,47.0,112.2,14.2,6.1,5.43
+Punjab,Wheat,Sandy,Drip,536.2,31.2,76.3,38.6,85.1,11.3,2.2,4.96
+Maharashtra,Groundnut,Black Soil,Sprinkler,925.6,22.5,71.8,65.9,73.8,2.6,3.6,6.0
+Punjab,Wheat,Red Soil,Sprinkler,920.3,29.7,60.1,52.8,142.0,4.8,4.8,6.23
+Punjab,Wheat,Loamy,Sprinkler,842.4,32.8,73.2,61.6,139.9,4.3,0.5,6.16
+West Bengal,Wheat,Sandy,Canal,1329.3,29.4,61.8,58.2,170.0,8.1,1.6,7.18
+Andhra Pradesh,Wheat,Clay,Drip,749.6,27.5,54.7,41.9,131.8,11.7,7.1,5.8
+Punjab,Cotton,Sandy,Drip,717.2,32.6,53.5,36.5,101.2,7.3,1.8,5.07
+West Bengal,Rice,Sandy,Sprinkler,930.4,25.2,71.2,57.9,132.9,8.5,2.8,6.12
+Karnataka,Maize,Sandy,Drip,767.8,21.9,63.4,38.8,112.2,5.0,2.4,4.82
+Andhra Pradesh,Sugarcane,Sandy,Rainfed,1035.3,27.2,86.0,61.7,145.3,8.5,0.0,6.3
+Punjab,Maize,Loamy,Rainfed,500.9,30.1,67.5,31.4,161.7,5.6,3.6,5.16
+Tamil Nadu,Maize,Black Soil,Rainfed,504.5,32.2,58.6,42.9,109.1,2.1,3.5,4.46
+Karnataka,Groundnut,Red Soil,Drip,948.5,30.1,69.9,39.2,176.5,8.3,3.8,6.16
+Karnataka,Rice,Sandy,Canal,523.7,31.3,52.5,35.4,156.6,7.0,3.3,4.63
+West Bengal,Groundnut,Sandy,Canal,914.0,32.2,67.0,48.0,115.6,3.7,2.7,5.39
+Karnataka,Rice,Sandy,Canal,861.4,26.6,71.8,43.0,138.5,11.9,2.6,6.42
+Andhra Pradesh,Rice,Black Soil,Canal,627.2,27.4,70.3,39.7,125.7,4.7,2.6,5.62
+Punjab,Wheat,Clay,Rainfed,860.8,33.1,83.6,45.5,115.8,8.8,1.7,5.88
+Punjab,Cotton,Clay,Rainfed,508.4,23.2,95.0,,182.0,5.9,2.0,5.32
+Tamil Nadu,Wheat,Loamy,Sprinkler,560.0,29.7,76.1,26.5,133.1,11.6,1.8,5.61
+West Bengal,Cotton,Clay,Drip,727.8,25.1,82.1,39.8,85.6,6.3,4.5,5.43
+Tamil Nadu,Groundnut,Sandy,Drip,797.4,32.4,95.0,52.5,79.0,2.0,4.1,4.01
+Karnataka,Cotton,Sandy,Canal,713.2,27.9,55.9,46.2,80.5,9.4,3.5,3.98
+Tamil Nadu,Groundnut,Sandy,Rainfed,875.3,28.0,69.6,54.5,132.1,11.6,7.0,4.92
+Andhra Pradesh,Maize,Loamy,Canal,865.5,34.9,62.3,51.2,103.0,5.7,1.8,6.21
+Punjab,Maize,Sandy,Sprinkler,1116.5,23.7,78.1,46.4,126.7,9.0,5.5,6.07
+Karnataka,Cotton,Clay,Drip,759.0,28.9,71.3,47.9,147.8,7.4,3.0,6.25
+Tamil Nadu,Cotton,Black Soil,Drip,1042.8,27.3,58.2,51.7,186.0,5.9,3.8,6.47
+West Bengal,Groundnut,Black Soil,Canal,982.6,30.1,68.1,63.2,103.9,9.5,4.7,6.52
+Andhra Pradesh,Wheat,Red Soil,Sprinkler,1284.7,35.7,80.6,61.9,65.7,4.6,2.6,6.76
+Andhra Pradesh,Groundnut,Clay,Drip,752.0,25.6,52.4,46.9,177.7,7.1,1.6,5.92
+Tamil Nadu,Wheat,Sandy,Sprinkler,687.5,23.2,58.4,46.2,64.0,7.8,1.9,5.29
+Punjab,Maize,Black Soil,Sprinkler,1056.7,24.8,56.6,54.2,62.6,7.7,0.0,6.82
+Tamil Nadu,Rice,Clay,Canal,864.8,27.1,71.9,49.3,176.8,4.7,4.6,6.47
+Karnataka,Cotton,Black Soil,Rainfed,1062.0,28.3,82.9,50.0,152.3,13.2,4.5,6.8
+Tamil Nadu,Wheat,Sandy,Canal,937.7,28.5,43.9,51.7,132.0,10.8,6.4,5.87
+Andhra Pradesh,Groundnut,Black Soil,Rainfed,316.5,35.2,69.1,38.6,113.3,10.0,4.2,4.28
+Tamil Nadu,Maize,Red Soil,Sprinkler,862.8,34.5,56.9,52.9,106.6,11.3,4.7,5.48
+Punjab,Wheat,Red Soil,Rainfed,848.5,33.2,80.1,51.8,92.2,7.2,3.4,5.45
+West Bengal,Groundnut,Black Soil,Sprinkler,809.3,38.1,65.2,54.3,105.1,5.9,4.3,5.97
+Maharashtra,Cotton,Clay,Drip,750.9,31.3,69.6,50.5,113.3,3.7,5.5,4.91
+Tamil Nadu,Cotton,Clay,Drip,429.7,32.4,68.0,39.5,66.9,4.9,3.8,4.45
+Punjab,Sugarcane,Clay,Drip,972.3,31.2,81.5,42.4,86.3,4.0,2.6,6.67
+Punjab,Rice,Black Soil,Canal,862.2,30.6,92.6,39.7,41.1,5.4,3.1,5.82
+West Bengal,Sugarcane,Clay,Canal,1022.4,29.6,54.4,49.1,117.7,7.8,4.9,6.04
+Andhra Pradesh,Maize,Sandy,Sprinkler,441.5,26.4,56.6,36.3,117.7,9.7,2.6,4.93
+Punjab,Wheat,Red Soil,Drip,891.6,23.0,71.9,55.7,177.2,9.7,5.1,6.35
+Punjab,Maize,Sandy,Canal,728.4,27.5,58.2,26.5,128.1,3.5,6.9,4.3
+Punjab,Groundnut,Clay,Drip,811.6,30.3,79.2,39.1,95.5,9.1,5.1,6.07
+Punjab,Cotton,Sandy,Canal,730.9,28.3,81.1,42.1,108.0,10.4,4.8,5.2
+Karnataka,Sugarcane,Clay,Rainfed,899.6,23.7,61.4,41.5,132.0,6.2,4.1,5.93
+Karnataka,Sugarcane,Black Soil,Rainfed,744.2,27.3,58.8,38.8,123.0,10.6,2.1,5.46
+Andhra Pradesh,Sugarcane,Sandy,Drip,548.6,27.1,64.7,35.7,135.2,9.6,1.9,5.85
+Tamil Nadu,Maize,Black Soil,Sprinkler,799.0,27.8,69.2,39.3,128.2,3.2,1.9,6.41
+Punjab,Cotton,Black Soil,Canal,732.9,30.0,71.8,38.7,106.2,13.6,4.5,5.75
+West Bengal,Wheat,Loamy,Canal,761.7,30.8,41.0,52.2,96.2,4.9,2.8,5.55
+Tamil Nadu,Groundnut,Clay,Rainfed,250.0,26.0,56.4,34.9,94.4,9.9,3.4,3.52
+West Bengal,Wheat,Red Soil,Rainfed,930.2,31.9,63.2,52.8,82.6,9.8,4.3,4.94
+Tamil Nadu,Maize,Clay,Sprinkler,710.8,32.5,58.4,42.6,77.1,3.3,2.0,5.23
+Andhra Pradesh,Groundnut,Red Soil,Sprinkler,483.4,29.3,35.0,43.2,179.3,7.5,2.6,4.94
+Punjab,Sugarcane,Clay,Sprinkler,983.0,30.7,45.3,54.7,119.4,9.7,4.1,6.68
+Punjab,Rice,Black Soil,Drip,920.0,31.9,52.3,51.6,109.6,3.3,3.0,6.49
+Maharashtra,Maize,Sandy,Rainfed,708.0,23.6,66.6,38.8,97.6,7.3,3.1,4.44
+West Bengal,Maize,Sandy,Drip,526.5,32.2,62.8,35.5,130.0,10.0,1.6,5.64
+Tamil Nadu,Cotton,Loamy,Rainfed,819.2,24.8,60.4,51.8,157.1,10.2,3.2,5.67
+Tamil Nadu,Wheat,Red Soil,Rainfed,807.1,25.2,77.6,42.1,140.3,5.8,6.5,4.84
+Karnataka,Maize,Red Soil,Canal,983.4,28.8,77.6,41.9,147.3,11.6,2.7,6.2
+Maharashtra,Maize,Red Soil,Rainfed,682.4,19.4,69.8,38.8,94.5,10.9,1.4,4.58
+Karnataka,Sugarcane,Black Soil,Rainfed,1042.9,28.7,69.4,60.4,114.9,7.7,5.2,6.17
+Karnataka,Sugarcane,Red Soil,Drip,661.1,31.9,57.7,38.3,94.9,5.0,4.4,5.18
+Karnataka,Groundnut,Sandy,Rainfed,483.9,21.4,59.2,39.1,118.7,3.5,3.9,3.55
+West Bengal,Rice,Black Soil,Drip,530.9,32.4,47.5,34.6,159.5,8.1,1.1,5.9
+West Bengal,Cotton,Clay,Sprinkler,766.3,25.2,65.0,48.7,130.4,11.4,1.4,6.66
+Andhra Pradesh,Rice,Red Soil,Rainfed,765.6,28.8,77.4,47.4,171.9,6.6,0.7,5.22
+Andhra Pradesh,Groundnut,Red Soil,Rainfed,852.1,25.8,84.3,37.4,104.9,4.4,4.3,4.84
+Karnataka,Sugarcane,Clay,Drip,760.1,30.3,65.1,45.6,86.8,9.5,5.3,5.79
+Maharashtra,Wheat,Red Soil,Sprinkler,995.0,32.1,73.9,39.8,132.9,7.5,4.3,5.63
+Tamil Nadu,Sugarcane,Clay,Canal,722.6,30.6,35.0,39.7,119.2,8.5,7.0,5.66
+West Bengal,Cotton,Black Soil,Sprinkler,340.8,28.0,62.8,33.5,126.3,5.4,2.7,5.15
+Maharashtra,Sugarcane,Sandy,Drip,753.4,26.1,62.5,54.9,121.1,5.9,2.9,5.53
+Punjab,Cotton,Clay,Sprinkler,338.5,27.7,85.9,35.4,98.0,5.4,3.7,4.47
+West Bengal,Cotton,Loamy,Drip,839.7,30.6,72.7,41.4,121.9,8.5,3.1,6.28
+West Bengal,Cotton,Clay,Drip,1012.6,30.8,73.9,48.4,149.1,6.0,4.4,5.69
+Andhra Pradesh,Groundnut,Red Soil,Canal,563.0,30.2,73.3,44.6,152.7,8.8,2.3,5.24
+Tamil Nadu,Cotton,Black Soil,Rainfed,1092.1,22.9,68.5,47.8,97.9,5.1,1.0,5.54
+Tamil Nadu,Cotton,Black Soil,Drip,965.4,27.9,86.4,55.7,123.1,8.5,0.3,6.61
+Punjab,Wheat,Clay,Drip,1045.4,25.5,40.3,48.0,166.7,9.1,4.4,6.3
+Punjab,Rice,Sandy,Canal,821.7,30.7,69.8,40.1,98.6,8.0,2.6,5.85
+West Bengal,Maize,Loamy,Drip,561.6,24.9,81.6,36.1,92.3,9.8,1.4,5.81
+Karnataka,Rice,Black Soil,Rainfed,951.8,29.8,45.3,39.1,142.8,5.6,2.4,5.59
+Andhra Pradesh,Cotton,Red Soil,Canal,642.6,26.9,78.1,28.0,136.7,9.1,7.0,4.63
+Andhra Pradesh,Wheat,Red Soil,Rainfed,805.9,20.5,58.9,44.7,85.7,7.7,1.5,4.5
+West Bengal,Sugarcane,Sandy,Rainfed,742.3,31.7,69.3,43.2,66.0,4.6,4.8,4.26
+Maharashtra,Wheat,Black Soil,Canal,1027.4,27.9,58.6,52.2,122.4,1.3,4.3,5.85
+Karnataka,Cotton,Clay,Drip,940.7,33.1,79.5,48.0,100.3,1.9,5.9,5.32
+West Bengal,Wheat,Red Soil,Rainfed,762.3,21.3,64.5,58.0,56.1,0.4,3.3,4.5
+Karnataka,Wheat,Sandy,Rainfed,350.6,26.8,78.1,34.8,90.9,8.3,0.7,3.32
+Karnataka,Cotton,Black Soil,Rainfed,640.2,27.1,73.2,32.7,136.1,6.0,5.3,4.72
+Karnataka,Groundnut,Black Soil,Rainfed,934.9,29.1,58.5,41.7,109.7,7.3,3.1,4.69
+West Bengal,Wheat,Black Soil,Canal,841.6,22.7,74.0,46.0,169.8,6.5,5.8,6.0
+Andhra Pradesh,Maize,Black Soil,Canal,449.3,30.2,60.0,33.6,41.9,8.7,5.0,4.45
+Andhra Pradesh,Maize,Black Soil,Sprinkler,382.6,35.6,68.8,27.2,161.8,8.8,5.3,5.27
+Karnataka,Wheat,Red Soil,Sprinkler,823.0,29.9,64.3,45.2,103.0,7.1,7.8,4.83
+Maharashtra,Groundnut,Sandy,Rainfed,547.4,28.4,78.8,38.4,97.9,7.3,4.0,4.08
+Tamil Nadu,Sugarcane,Black Soil,Drip,568.6,22.5,74.5,48.8,60.7,7.4,6.1,5.01
+West Bengal,Cotton,Loamy,Rainfed,928.0,24.9,67.6,42.7,131.3,11.2,2.8,5.89
+Tamil Nadu,Maize,Loamy,Drip,1044.5,27.8,59.8,48.6,51.1,1.0,4.5,5.25
+Maharashtra,Sugarcane,Sandy,Rainfed,614.8,25.9,52.8,49.9,143.6,5.0,2.6,5.27
+West Bengal,Wheat,Clay,Sprinkler,770.2,32.1,69.6,46.2,62.0,9.6,4.4,6.04
+Karnataka,Sugarcane,Clay,Sprinkler,763.7,30.1,60.4,38.6,67.6,10.3,4.2,5.51
+Andhra Pradesh,Rice,Clay,Drip,743.9,38.8,45.5,39.3,73.3,8.3,0.0,5.76
+Tamil Nadu,Maize,Loamy,Rainfed,788.9,24.1,52.0,37.4,,6.4,2.4,5.42
+Punjab,Wheat,Clay,Drip,946.4,28.1,87.5,49.1,148.0,12.6,3.9,6.38
+Punjab,Cotton,Red Soil,Sprinkler,631.7,22.5,60.1,47.0,167.6,7.5,0.0,5.7
+Maharashtra,Groundnut,Black Soil,Rainfed,444.4,19.1,81.0,45.9,93.6,7.1,3.3,3.75
+Karnataka,Wheat,Loamy,Rainfed,1151.8,30.9,63.7,44.9,113.4,11.0,5.3,6.78
+Tamil Nadu,Cotton,Sandy,Drip,1019.7,30.0,82.9,55.7,132.1,8.4,5.8,6.31
+Karnataka,Groundnut,Sandy,Canal,537.2,24.6,82.0,39.4,103.5,9.8,2.1,4.48
+Tamil Nadu,Groundnut,Black Soil,Drip,809.8,28.4,58.1,43.7,130.8,10.2,6.0,6.2
+Maharashtra,Wheat,Loamy,Sprinkler,1002.4,25.5,44.1,47.6,114.9,5.9,5.7,5.99
+Maharashtra,Sugarcane,Clay,Sprinkler,944.8,26.0,45.2,37.1,106.1,12.3,0.0,6.97
+Punjab,Sugarcane,Clay,Sprinkler,881.6,26.7,58.3,50.9,65.3,0.0,3.7,5.56
+Karnataka,Groundnut,Red Soil,Sprinkler,742.6,24.4,90.7,35.7,120.2,1.1,3.9,5.12
+West Bengal,Sugarcane,Red Soil,Sprinkler,1160.0,25.1,63.1,49.5,148.5,5.0,6.2,6.25
+Punjab,Rice,Clay,Canal,828.6,25.2,69.7,48.2,87.8,5.7,4.0,5.6
+Karnataka,Groundnut,Sandy,Rainfed,666.7,29.7,83.6,30.8,46.1,8.1,6.0,3.62
+Punjab,Groundnut,Sandy,Drip,971.6,18.0,69.3,41.4,103.8,4.9,2.1,5.45
+West Bengal,Cotton,Red Soil,Drip,801.1,27.1,68.9,52.3,167.8,7.0,0.6,6.39
+Andhra Pradesh,Sugarcane,Black Soil,Sprinkler,857.0,23.6,75.5,47.2,157.4,6.4,2.3,6.95
+Andhra Pradesh,Groundnut,Clay,Drip,824.7,23.8,71.5,41.6,94.7,13.0,6.3,5.08
+Andhra Pradesh,Rice,Red Soil,Sprinkler,889.3,25.9,66.8,48.0,130.9,4.6,5.2,6.41
+Andhra Pradesh,Cotton,Red Soil,Canal,564.7,27.9,59.3,43.1,136.5,2.0,7.7,4.22
+Tamil Nadu,Wheat,Clay,Canal,460.8,27.1,68.9,43.3,167.2,10.4,0.9,5.88
+Andhra Pradesh,Groundnut,Clay,Rainfed,1095.5,23.7,81.1,45.7,60.7,4.9,5.4,5.49
+West Bengal,Rice,Sandy,Canal,834.9,30.9,89.4,39.7,77.6,6.7,4.9,4.77
+Maharashtra,Maize,Black Soil,Canal,949.6,24.4,71.5,52.4,44.7,5.1,3.0,5.98
+Maharashtra,Rice,Black Soil,Rainfed,392.9,25.1,77.1,38.7,91.3,9.2,4.9,4.29
+Tamil Nadu,Rice,Clay,Drip,1014.7,29.1,71.2,42.3,152.3,2.9,3.8,6.2
+Andhra Pradesh,Cotton,Loamy,Sprinkler,665.3,29.3,67.0,35.7,95.4,0.0,4.3,4.7
+Andhra Pradesh,Wheat,Red Soil,Sprinkler,602.6,25.6,74.2,38.9,69.2,10.9,4.7,5.09
+Andhra Pradesh,Maize,Red Soil,Drip,766.1,18.0,82.3,44.3,122.9,7.7,5.3,5.67
+Punjab,Sugarcane,Clay,Rainfed,564.8,24.5,57.4,39.4,123.8,10.2,3.7,5.52
+Karnataka,Sugarcane,Loamy,Drip,779.6,28.6,50.6,36.3,79.4,10.8,6.7,5.33
+Punjab,Rice,Sandy,Canal,750.0,30.8,61.6,44.0,97.3,4.3,3.1,5.47
+Karnataka,Cotton,Clay,Rainfed,1013.3,27.7,70.5,46.0,120.3,7.2,6.9,5.17
+Andhra Pradesh,Cotton,Clay,Rainfed,1112.9,26.1,78.4,45.8,141.1,8.5,1.5,5.74
+Andhra Pradesh,Sugarcane,Red Soil,Rainfed,1105.9,37.2,56.1,52.6,92.3,6.7,1.7,5.99
+Punjab,Maize,Clay,Sprinkler,281.8,26.5,38.1,31.4,87.2,6.1,1.8,5.24
+Punjab,Wheat,Clay,Drip,574.3,30.4,61.9,44.2,181.9,6.4,5.2,5.81
+Karnataka,Maize,Clay,Rainfed,279.5,22.7,65.7,26.8,105.4,10.3,2.1,4.46
+Maharashtra,Groundnut,Red Soil,Rainfed,517.4,23.6,54.1,39.3,123.7,6.2,6.2,3.92
+Karnataka,Groundnut,Sandy,Rainfed,637.1,30.6,58.9,31.5,137.7,8.8,2.6,4.44
+Punjab,Wheat,Sandy,Drip,870.3,32.2,78.4,45.1,52.5,8.0,4.2,5.16
+West Bengal,Sugarcane,Clay,Sprinkler,665.6,26.4,68.9,44.4,114.4,4.1,4.7,5.98
+Punjab,Wheat,Red Soil,Canal,671.7,20.6,72.1,45.1,57.4,7.9,1.7,5.44
+West Bengal,Cotton,Sandy,Sprinkler,820.0,27.3,63.7,48.8,110.4,2.4,1.0,5.65
+Tamil Nadu,Groundnut,Sandy,Rainfed,404.0,28.8,59.0,39.9,163.1,8.2,4.0,4.09
+Punjab,Rice,Sandy,Sprinkler,595.5,28.4,63.6,37.2,80.1,9.7,3.0,5.58
+Tamil Nadu,Rice,Red Soil,Sprinkler,669.2,25.7,74.0,44.7,56.7,10.4,4.4,5.49
+Maharashtra,Sugarcane,Red Soil,Canal,735.5,27.4,50.1,54.6,181.1,4.1,1.1,6.0
+Karnataka,Cotton,Clay,Drip,796.9,25.0,87.8,42.1,74.9,5.4,2.9,5.21
+West Bengal,Maize,Black Soil,Drip,1110.1,23.6,74.9,61.0,62.5,7.9,3.2,6.45
+Karnataka,Cotton,Sandy,Sprinkler,979.8,31.0,61.6,54.8,171.7,5.6,0.0,5.53
+Tamil Nadu,Rice,Black Soil,Sprinkler,610.8,28.4,77.8,38.7,73.5,1.2,5.3,5.36
+West Bengal,Rice,Red Soil,Drip,722.5,27.4,82.7,42.0,172.6,5.4,2.1,7.24
+Karnataka,Groundnut,Red Soil,Drip,707.5,26.0,64.0,43.4,124.6,7.8,6.2,5.47
+Punjab,Cotton,Red Soil,Canal,666.9,27.3,65.4,46.6,159.9,10.2,2.3,6.02
+Andhra Pradesh,Cotton,Black Soil,Rainfed,840.0,28.6,85.9,48.4,121.5,12.1,2.6,5.62
+Tamil Nadu,Rice,Red Soil,Sprinkler,370.8,34.9,93.4,31.4,152.8,7.4,1.3,4.81
+Karnataka,Maize,Clay,Drip,973.8,30.6,68.4,36.9,82.9,8.7,5.6,5.8
+Tamil Nadu,Sugarcane,Red Soil,Sprinkler,1152.6,25.3,54.1,57.8,93.5,9.9,4.3,7.18
+Tamil Nadu,Sugarcane,Loamy,Sprinkler,720.6,25.4,62.4,31.4,41.0,0.8,6.0,4.73
+West Bengal,Cotton,Black Soil,Drip,716.3,24.8,80.4,34.7,149.0,3.9,3.1,6.5
+West Bengal,Sugarcane,Loamy,Canal,814.5,27.2,55.6,42.9,129.7,7.3,3.4,5.91
+Andhra Pradesh,Rice,Red Soil,Sprinkler,1004.3,24.8,65.5,42.8,79.7,11.7,0.5,6.47
+Punjab,Rice,Clay,Canal,708.7,29.9,71.5,44.6,53.8,8.9,2.4,5.76
+Tamil Nadu,Cotton,Sandy,Drip,985.5,18.0,56.9,47.9,124.9,8.0,3.8,5.6
+Karnataka,Cotton,Red Soil,Rainfed,887.5,30.1,81.2,51.9,173.7,6.3,4.2,5.18
+Maharashtra,Groundnut,Clay,Rainfed,1299.6,29.1,76.3,47.8,110.2,8.3,6.8,5.63
+Tamil Nadu,Cotton,Black Soil,Sprinkler,707.7,33.1,92.1,38.7,92.0,5.2,0.2,5.41
+Tamil Nadu,Maize,Loamy,Drip,345.3,31.5,77.4,33.7,82.2,4.7,3.9,5.21
+Andhra Pradesh,Sugarcane,Loamy,Canal,464.8,25.3,56.5,36.9,158.7,4.9,2.8,6.21
+Punjab,Cotton,Loamy,Sprinkler,782.6,31.1,74.4,48.7,87.7,11.0,3.6,5.91
+Maharashtra,Wheat,Black Soil,Drip,1006.1,27.3,79.9,44.7,102.0,4.5,3.7,5.46
+West Bengal,Groundnut,Clay,Drip,636.4,20.3,80.5,38.1,151.5,5.8,3.2,5.38
+West Bengal,Wheat,Black Soil,Canal,729.2,28.6,58.7,46.3,137.3,8.4,1.5,6.26
+Karnataka,Rice,Loamy,Sprinkler,930.7,25.5,57.2,35.1,103.3,4.4,1.1,6.15
+Maharashtra,Sugarcane,Red Soil,Drip,567.6,28.0,54.3,41.5,90.5,7.7,3.0,5.67
+West Bengal,Cotton,Sandy,Drip,645.5,34.6,87.3,45.7,166.3,7.7,0.9,6.01
+Karnataka,Wheat,Black Soil,Drip,523.1,28.9,75.5,30.1,75.9,5.1,3.3,5.15
+Punjab,Sugarcane,Black Soil,Canal,1039.2,23.9,58.1,49.1,107.6,6.2,3.0,6.93
+Karnataka,Rice,Clay,Sprinkler,1119.2,31.9,69.5,61.9,62.3,4.2,0.0,6.86
+West Bengal,Maize,Clay,Sprinkler,432.5,29.5,66.5,39.8,156.6,11.1,7.0,5.39
+Andhra Pradesh,Groundnut,Black Soil,Sprinkler,748.7,23.5,56.3,46.4,98.4,7.8,3.6,5.1
+Andhra Pradesh,Sugarcane,Loamy,Sprinkler,1089.6,21.6,68.4,58.2,90.5,3.9,0.0,7.45
+Andhra Pradesh,Sugarcane,Sandy,Rainfed,867.7,24.1,70.3,57.5,138.2,7.4,3.9,5.59
+West Bengal,Maize,Clay,Rainfed,672.4,31.3,91.2,41.9,65.1,7.5,3.1,4.46
+Andhra Pradesh,Sugarcane,Loamy,Sprinkler,439.8,26.8,60.1,33.6,137.2,0.3,1.1,5.08
+Maharashtra,Rice,Red Soil,Canal,1033.6,28.3,47.5,56.8,102.4,11.0,4.1,6.01
+Punjab,Rice,Clay,Rainfed,859.3,22.6,55.4,45.4,72.8,4.0,1.8,4.92
+Karnataka,Maize,Loamy,Drip,455.9,31.5,57.3,30.8,80.3,13.3,3.8,5.47
+Karnataka,Groundnut,Loamy,Rainfed,1041.8,19.9,62.9,47.8,91.1,9.4,2.2,5.43
+West Bengal,Cotton,Sandy,Drip,427.9,25.4,55.4,37.6,99.5,3.6,1.9,4.69
+Andhra Pradesh,Wheat,Sandy,Sprinkler,731.5,29.7,77.9,40.6,73.1,6.1,3.5,5.22
+Andhra Pradesh,Cotton,Red Soil,Rainfed,721.8,23.5,54.6,40.8,125.3,9.8,0.6,5.43
+Tamil Nadu,Sugarcane,Loamy,Canal,1136.0,30.5,68.2,47.2,72.1,6.3,3.4,6.87
+Punjab,Wheat,Loamy,Rainfed,722.6,24.5,92.0,51.7,32.2,10.5,4.7,5.16
+Maharashtra,Maize,Sandy,Rainfed,721.8,23.1,74.6,41.0,182.2,5.9,5.8,4.49
+Karnataka,Maize,Clay,Rainfed,480.1,33.1,73.4,32.7,121.9,6.8,5.5,4.14
+Tamil Nadu,Groundnut,Clay,Sprinkler,639.1,28.6,90.3,37.3,185.3,9.9,5.9,5.82
+Tamil Nadu,Wheat,Black Soil,Canal,600.2,30.1,82.9,44.8,78.5,8.8,2.7,5.12
+West Bengal,Rice,Sandy,Rainfed,611.7,32.1,74.8,43.7,131.8,4.2,1.7,4.68
+Karnataka,Wheat,Black Soil,Canal,781.4,18.0,64.3,41.5,146.3,8.3,5.0,5.18
+West Bengal,Sugarcane,Sandy,Sprinkler,250.0,30.5,67.7,31.4,108.4,7.5,2.6,4.99
+Maharashtra,Rice,Red Soil,Drip,447.7,25.0,67.1,37.9,64.4,4.3,3.5,4.75
+Tamil Nadu,Maize,Loamy,Rainfed,755.6,25.5,63.2,39.7,105.7,2.8,4.8,5.69
+Tamil Nadu,Wheat,Red Soil,Canal,806.7,29.7,70.5,35.9,136.9,1.2,7.1,4.6
+Punjab,Cotton,Sandy,Canal,728.6,26.5,72.2,46.3,135.6,6.1,4.5,4.97
+Maharashtra,Groundnut,Loamy,Sprinkler,771.0,30.4,53.1,40.4,114.9,6.8,3.9,5.43
+Tamil Nadu,Cotton,Clay,Rainfed,690.0,27.8,87.6,44.9,146.4,8.5,1.5,5.29
+Maharashtra,Groundnut,Clay,Drip,775.9,28.7,72.9,46.3,144.8,9.5,5.6,5.87
+Karnataka,Sugarcane,Black Soil,Canal,875.5,26.0,64.8,47.2,96.7,5.8,4.2,6.01
+Andhra Pradesh,Cotton,Sandy,Rainfed,874.0,23.7,70.7,44.3,,6.8,2.9,4.25
+Tamil Nadu,Wheat,Sandy,Drip,628.4,25.0,79.2,36.9,121.7,4.7,2.7,5.39
+Punjab,Wheat,Clay,Canal,981.3,27.6,50.4,42.7,88.9,7.3,2.8,5.48
+Karnataka,Cotton,Red Soil,Canal,814.6,35.3,66.7,41.7,120.0,9.9,3.6,5.46
+Maharashtra,Wheat,Loamy,Drip,1051.1,33.9,53.8,54.7,162.1,7.3,0.9,6.76
+West Bengal,Sugarcane,Red Soil,Drip,1095.2,25.4,95.0,60.8,130.3,10.5,5.7,7.25
+Karnataka,Rice,Red Soil,Sprinkler,462.6,28.2,69.7,44.1,160.4,9.9,5.4,5.76
+Tamil Nadu,Sugarcane,Clay,Rainfed,591.0,26.8,53.9,40.6,79.6,11.4,3.2,4.54
+Maharashtra,Groundnut,Clay,Rainfed,959.0,28.5,95.0,57.4,153.1,7.4,2.8,5.71
+Andhra Pradesh,Sugarcane,Clay,Sprinkler,413.7,29.0,61.6,33.5,173.7,5.4,3.5,5.58
+Karnataka,Groundnut,Black Soil,Canal,1092.4,30.1,65.5,44.6,117.3,8.9,3.8,5.28
+Tamil Nadu,Wheat,Red Soil,Drip,704.3,18.0,66.4,54.1,196.3,5.9,3.0,6.03
+Punjab,Rice,Sandy,Drip,906.5,29.5,57.8,50.9,85.0,8.8,5.3,5.67
+West Bengal,Wheat,Loamy,Drip,754.4,26.4,71.0,34.7,92.6,5.0,0.9,5.39
+Maharashtra,Maize,Black Soil,Canal,473.7,25.2,41.5,46.2,137.7,4.5,2.2,5.06
+Karnataka,Wheat,Sandy,Drip,1012.2,31.2,81.0,45.8,116.9,10.6,4.9,5.5
+Karnataka,Groundnut,Red Soil,Drip,1385.2,33.9,54.5,56.5,89.0,4.0,4.1,5.95
+Andhra Pradesh,Wheat,Clay,Sprinkler,666.7,30.8,63.0,47.8,136.7,10.1,2.3,6.02
+Andhra Pradesh,Wheat,Red Soil,Canal,709.1,25.9,77.0,50.9,127.4,8.8,4.2,5.84
+Punjab,Rice,Loamy,Rainfed,250.0,23.7,65.5,25.2,94.5,7.3,2.1,4.34
+West Bengal,Wheat,Black Soil,Sprinkler,1077.3,18.0,66.0,60.8,121.6,1.3,2.9,6.58
+Punjab,Rice,Black Soil,Sprinkler,980.6,28.7,55.9,54.8,141.6,11.5,5.4,6.65
+Tamil Nadu,Cotton,Loamy,Rainfed,398.7,30.3,93.1,30.2,93.7,4.2,5.2,3.96
+Tamil Nadu,Maize,Sandy,Sprinkler,325.7,27.6,74.4,31.7,133.1,9.9,4.0,5.42
+Punjab,Rice,Sandy,Canal,351.2,31.7,55.0,42.9,84.7,4.9,1.6,4.03
+West Bengal,Groundnut,Black Soil,Drip,921.9,22.7,70.1,38.7,91.4,4.7,2.8,5.03
+Punjab,Cotton,Black Soil,Canal,943.9,27.3,54.2,56.9,153.9,9.0,3.7,7.15
+West Bengal,Rice,Clay,Rainfed,576.9,27.0,88.7,44.5,136.5,8.6,6.1,5.11
+West Bengal,Rice,Sandy,Rainfed,889.8,27.6,70.4,50.3,49.0,3.6,0.3,4.84
+Maharashtra,Maize,Loamy,Sprinkler,815.0,32.7,56.3,46.2,101.9,11.3,1.9,5.78
+West Bengal,Groundnut,Sandy,Canal,699.2,27.6,76.4,54.3,132.1,6.4,5.5,4.95
+Andhra Pradesh,Sugarcane,Clay,Canal,993.4,26.8,64.7,62.5,119.9,7.2,5.9,6.59
+West Bengal,Sugarcane,Black Soil,Rainfed,514.9,24.3,52.5,34.2,136.6,6.1,3.4,5.13
+West Bengal,Rice,Black Soil,Canal,1032.5,33.3,72.6,54.5,119.1,3.7,6.3,5.64
+West Bengal,Wheat,Clay,Rainfed,619.7,22.3,72.2,51.7,110.4,9.2,2.2,5.03
+Tamil Nadu,Groundnut,Loamy,Canal,1171.9,25.8,81.7,49.6,109.3,7.9,0.8,6.54
+Andhra Pradesh,Cotton,Black Soil,Canal,558.8,34.8,68.8,40.4,153.2,4.6,4.9,5.15
+Andhra Pradesh,Wheat,Red Soil,Canal,702.7,29.9,69.3,48.6,139.3,9.8,5.8,5.04
+Punjab,Wheat,Black Soil,Rainfed,792.9,27.9,69.9,32.7,129.2,7.2,5.8,5.23
+Maharashtra,Groundnut,Red Soil,Sprinkler,791.5,28.1,87.1,49.8,118.1,7.2,1.9,6.5
+West Bengal,Rice,Clay,Canal,888.0,24.2,64.3,40.7,95.8,12.3,3.9,5.66
+Karnataka,Rice,Clay,Rainfed,497.1,27.7,73.6,38.6,104.3,2.2,5.0,4.01
+Maharashtra,Rice,Black Soil,Rainfed,771.8,26.6,75.4,51.2,152.3,2.1,4.0,5.36
+Maharashtra,Rice,Sandy,Canal,810.4,28.7,72.2,30.9,149.0,2.8,6.1,3.8
+Andhra Pradesh,Sugarcane,Red Soil,Canal,663.9,22.0,63.8,46.3,92.3,8.1,2.8,4.99
+Maharashtra,Rice,Loamy,Sprinkler,868.9,29.6,69.4,59.0,118.5,5.9,3.4,6.48
+West Bengal,Sugarcane,Black Soil,Rainfed,483.8,32.1,66.9,33.9,132.4,6.2,3.9,4.87
+West Bengal,Sugarcane,Loamy,Rainfed,708.2,27.2,91.5,46.2,130.2,4.2,5.0,5.86
+Tamil Nadu,Rice,Black Soil,Drip,614.3,30.6,62.5,48.4,129.9,12.0,3.1,6.28
+West Bengal,Maize,Sandy,Rainfed,708.8,29.2,57.0,33.2,76.1,13.0,5.2,4.37
+West Bengal,Cotton,Sandy,Sprinkler,1098.3,25.6,67.9,57.0,74.0,9.7,6.4,5.36
+Andhra Pradesh,Wheat,Sandy,Drip,1102.6,23.8,67.1,58.7,156.0,2.5,2.6,6.09
+West Bengal,Sugarcane,Sandy,Drip,1059.5,24.3,70.4,55.3,167.8,5.5,3.2,6.29
+Tamil Nadu,Groundnut,Clay,Drip,678.3,29.2,62.5,42.5,63.1,9.5,5.2,5.12
+Karnataka,Groundnut,Clay,Canal,979.7,27.8,69.3,43.5,114.0,6.9,7.0,5.06
+Andhra Pradesh,Cotton,Red Soil,Canal,804.7,33.1,69.6,53.5,143.5,9.7,4.6,5.19
+Karnataka,Groundnut,Loamy,Rainfed,790.0,31.2,78.9,45.0,37.9,10.7,2.1,4.71
+Andhra Pradesh,Maize,Black Soil,Drip,,31.2,69.1,38.7,77.4,12.7,3.9,6.05
+Punjab,Groundnut,Black Soil,Sprinkler,1166.9,29.1,69.2,52.3,111.8,5.0,5.2,6.43
+Maharashtra,Wheat,Clay,Canal,1080.5,24.2,74.2,54.2,94.1,7.2,2.0,6.43
+Punjab,Wheat,Black Soil,Sprinkler,943.9,29.3,78.4,39.2,122.3,5.7,1.6,6.08
+West Bengal,Sugarcane,Clay,Sprinkler,742.5,28.3,56.2,43.7,166.5,1.0,2.9,6.17
+Karnataka,Rice,Red Soil,Canal,788.7,23.4,53.0,42.2,85.2,9.1,4.7,5.86
+West Bengal,Maize,Loamy,Canal,896.7,32.8,88.3,55.4,116.8,8.7,1.0,7.06
+Maharashtra,Sugarcane,Red Soil,Canal,665.2,32.4,76.4,30.4,102.9,5.4,2.3,4.68
+Andhra Pradesh,Maize,Sandy,Canal,986.4,23.4,65.4,55.3,119.8,2.2,4.0,5.1
+Maharashtra,Rice,Sandy,Drip,577.3,25.4,68.2,47.9,115.2,5.8,5.5,5.47
+Tamil Nadu,Groundnut,Sandy,Drip,866.2,25.8,63.3,35.6,207.3,9.2,4.0,6.03
+Maharashtra,Groundnut,Red Soil,Drip,276.3,30.4,70.5,21.6,167.1,11.0,4.2,4.38
+Tamil Nadu,Rice,Black Soil,Drip,658.9,30.0,56.3,52.2,59.7,4.9,5.3,5.39
+Maharashtra,Sugarcane,Loamy,Rainfed,1237.1,28.2,78.1,50.5,83.5,10.3,6.4,6.39
+Tamil Nadu,Rice,Sandy,Drip,1008.0,29.1,70.1,68.8,87.8,8.9,6.2,6.29
+Karnataka,Cotton,Sandy,Canal,1117.8,22.8,70.5,42.1,71.8,8.2,0.0,5.44
+West Bengal,Wheat,Sandy,Sprinkler,633.2,29.5,57.3,41.9,67.1,3.1,3.7,4.44
+West Bengal,Sugarcane,Loamy,Drip,802.8,27.6,74.3,44.9,108.8,3.2,5.1,5.91
+Punjab,Maize,Sandy,Rainfed,1062.0,25.3,57.5,50.3,89.1,4.5,6.6,5.06
+West Bengal,Cotton,Loamy,Canal,919.3,21.9,59.7,50.8,83.8,6.0,4.7,5.31
+Andhra Pradesh,Sugarcane,Sandy,Sprinkler,891.9,28.1,69.1,50.4,185.7,12.4,2.0,6.47
+Maharashtra,Rice,Red Soil,Sprinkler,1138.7,29.4,95.0,52.5,91.5,5.0,2.2,6.82
+Punjab,Rice,Red Soil,Drip,551.1,21.2,70.1,32.7,99.5,9.3,2.2,5.35
+Andhra Pradesh,Rice,Loamy,Sprinkler,739.5,28.1,37.2,49.8,141.0,5.6,4.1,6.77
+Andhra Pradesh,Rice,Red Soil,Drip,394.1,28.5,60.3,38.6,99.4,8.4,2.6,4.46
+Tamil Nadu,Maize,Loamy,Drip,539.1,25.8,76.2,39.2,74.2,6.8,0.0,5.21
+West Bengal,Cotton,Red Soil,Canal,1016.3,29.5,54.5,54.0,106.0,7.5,1.4,6.32
+Karnataka,Groundnut,Red Soil,Canal,578.2,27.5,78.0,44.1,185.3,8.1,2.7,5.38
+Karnataka,Wheat,Loamy,Rainfed,941.8,29.1,69.9,44.0,98.1,6.3,1.0,5.27
+Punjab,Maize,Black Soil,Canal,1144.9,30.1,79.9,57.0,83.1,8.1,1.3,7.37
+Karnataka,Maize,Red Soil,Canal,740.9,30.1,61.3,40.2,129.7,10.7,7.2,4.93
+Maharashtra,Groundnut,Sandy,Drip,894.4,32.1,60.4,52.2,104.3,4.7,3.5,5.56
+Karnataka,Groundnut,Black Soil,Canal,943.5,29.4,74.8,47.4,210.9,10.6,2.8,6.65
+Punjab,Wheat,Loamy,Drip,511.3,26.1,67.9,41.5,87.5,6.2,4.7,4.92
+Karnataka,Wheat,Black Soil,Drip,644.4,25.4,67.2,38.5,175.7,5.9,5.6,5.35
+Maharashtra,Groundnut,Clay,Canal,559.2,23.7,86.8,43.0,155.7,9.1,7.5,5.24
+Tamil Nadu,Rice,Clay,Rainfed,661.9,28.6,75.2,35.7,101.7,6.0,6.6,4.59
+Punjab,Maize,Red Soil,Rainfed,937.5,33.3,44.1,48.7,114.9,8.0,4.3,5.82
+Tamil Nadu,Sugarcane,Red Soil,Sprinkler,649.1,26.6,77.6,47.1,79.0,7.7,0.7,6.43
+Tamil Nadu,Wheat,Sandy,Sprinkler,772.3,29.8,76.4,47.1,96.2,0.7,1.7,5.1
+Tamil Nadu,Wheat,Black Soil,Canal,550.7,25.0,82.2,39.9,101.4,8.3,2.8,5.26
+Andhra Pradesh,Groundnut,Clay,Rainfed,1049.8,28.8,56.7,,120.5,2.7,4.4,5.37
+West Bengal,Cotton,Red Soil,Drip,660.1,33.0,71.9,47.6,65.6,2.9,3.7,4.88
+Andhra Pradesh,Sugarcane,Black Soil,Sprinkler,1115.1,30.7,69.3,58.0,125.9,8.1,0.8,7.95
+West Bengal,Sugarcane,Red Soil,Drip,793.4,21.7,56.5,48.8,109.9,8.6,0.5,5.94
+Tamil Nadu,Wheat,Red Soil,Sprinkler,470.5,30.3,79.4,41.5,128.9,10.6,4.0,5.3
+Punjab,Rice,Clay,Canal,742.4,30.5,65.1,53.5,134.2,3.7,3.7,6.06
+West Bengal,Cotton,Clay,Rainfed,546.2,28.7,81.8,36.1,107.1,4.8,3.1,3.82
+Maharashtra,Sugarcane,Red Soil,Sprinkler,909.7,30.7,59.1,53.8,132.1,8.4,4.4,5.97
+Maharashtra,Wheat,Loamy,Rainfed,722.5,24.7,50.5,45.2,111.9,10.7,5.7,4.79
+Karnataka,Sugarcane,Red Soil,Drip,815.9,28.3,65.1,43.1,141.0,7.6,4.1,6.46
+West Bengal,Cotton,Red Soil,Canal,698.7,32.4,70.8,41.9,126.1,4.4,1.8,5.5
+Punjab,Cotton,Sandy,Rainfed,657.8,32.1,61.6,42.8,121.3,11.5,6.9,3.77
+Andhra Pradesh,Maize,Sandy,Canal,565.8,30.2,35.0,34.0,111.4,6.2,3.2,4.87
+Tamil Nadu,Groundnut,Sandy,Rainfed,964.0,24.5,72.6,54.3,160.4,6.3,3.6,5.47
+Karnataka,Groundnut,Loamy,Drip,741.9,23.8,72.5,42.9,129.2,2.7,2.3,5.71
+Maharashtra,Wheat,Loamy,Drip,710.8,28.5,76.2,43.3,68.7,9.2,1.6,5.86
+Andhra Pradesh,Cotton,Red Soil,Canal,736.4,28.7,63.4,51.6,98.5,9.6,1.7,5.96
+Andhra Pradesh,Maize,Sandy,Drip,630.7,27.6,62.8,41.5,107.0,4.9,1.3,5.66
+Tamil Nadu,Maize,Loamy,Sprinkler,711.5,24.8,85.3,52.1,115.0,12.3,0.0,6.1
+West Bengal,Sugarcane,Clay,Rainfed,825.2,29.7,49.1,42.5,121.2,5.2,3.2,5.62
+Maharashtra,Sugarcane,Red Soil,Drip,552.5,28.4,65.0,32.2,82.0,8.9,5.5,4.95
+Punjab,Maize,Black Soil,Sprinkler,584.3,29.2,69.7,37.9,112.6,7.7,1.7,5.67
+Andhra Pradesh,Sugarcane,Red Soil,Canal,1083.2,30.4,75.3,35.2,104.0,0.9,8.1,5.16
+Tamil Nadu,Cotton,Black Soil,Sprinkler,700.2,26.9,70.0,47.9,153.0,8.6,6.0,5.89
+Punjab,Rice,Sandy,Canal,658.7,26.0,56.9,35.2,80.2,8.4,3.5,4.59
+West Bengal,Cotton,Black Soil,Canal,484.3,32.4,82.0,33.4,114.4,1.7,1.5,4.98
+Maharashtra,Maize,Sandy,Rainfed,967.1,25.0,68.0,53.5,91.0,11.6,0.6,5.44
+West Bengal,Maize,Clay,Rainfed,547.7,26.1,48.0,39.4,180.2,8.4,3.3,5.6
+Andhra Pradesh,Cotton,Black Soil,Sprinkler,776.6,32.9,70.5,41.8,159.0,10.7,3.6,5.79
+Punjab,Sugarcane,Red Soil,Rainfed,404.2,25.8,73.7,22.9,57.5,1.9,3.1,3.66
+Punjab,Sugarcane,Sandy,Rainfed,960.0,27.6,91.5,56.8,87.1,5.8,5.4,5.15
+Punjab,Groundnut,Red Soil,Rainfed,1038.9,26.4,72.9,55.3,145.5,10.5,6.2,5.53
+Andhra Pradesh,Maize,Loamy,Sprinkler,886.6,20.9,50.2,59.5,131.0,2.3,4.4,5.71
+Andhra Pradesh,Wheat,Sandy,Drip,442.4,27.5,50.6,32.5,129.9,5.9,4.4,4.67
+West Bengal,Groundnut,Black Soil,Rainfed,964.5,24.0,83.1,40.4,121.7,8.2,2.9,5.83
+Karnataka,Sugarcane,Sandy,Rainfed,598.0,29.0,58.4,45.9,148.3,1.3,3.5,4.82
+West Bengal,Cotton,Red Soil,Sprinkler,522.4,32.4,49.4,36.9,142.3,3.0,4.2,4.62
+Maharashtra,Sugarcane,Clay,Drip,695.6,19.1,80.0,46.2,104.8,11.1,2.9,6.14
+Tamil Nadu,Cotton,Sandy,Rainfed,691.3,26.4,62.3,52.0,73.0,7.2,4.7,4.32
+Punjab,Groundnut,Black Soil,Canal,668.9,29.8,79.4,44.1,55.8,10.5,1.6,5.55
+Karnataka,Maize,Loamy,Sprinkler,1060.2,19.3,57.0,52.5,111.4,7.5,2.2,6.36
+Tamil Nadu,Sugarcane,Clay,Rainfed,1222.6,33.3,85.7,56.9,50.6,14.4,1.6,7.06
+Karnataka,Cotton,Loamy,Rainfed,478.8,29.5,78.5,27.1,123.8,8.3,2.3,3.67
+West Bengal,Maize,Sandy,Canal,628.5,32.3,59.3,47.4,104.2,10.8,3.0,4.46
+Andhra Pradesh,Wheat,Red Soil,Canal,811.4,25.7,48.1,52.3,183.0,6.3,5.4,6.14
+Punjab,Cotton,Red Soil,Sprinkler,694.5,26.2,95.0,45.5,127.0,7.6,3.6,5.51
+West Bengal,Groundnut,Black Soil,Sprinkler,867.9,27.4,65.5,37.6,114.0,8.9,1.2,6.39
+Tamil Nadu,Wheat,Red Soil,Canal,981.5,36.6,58.8,48.8,58.4,9.4,1.0,5.55
+Tamil Nadu,Wheat,Clay,Sprinkler,944.9,33.3,84.6,57.3,70.8,6.9,2.8,6.61
+Tamil Nadu,Rice,Red Soil,Canal,914.1,28.5,79.3,44.5,138.8,7.0,5.0,5.95
+Tamil Nadu,Sugarcane,Black Soil,Rainfed,1145.0,29.0,82.2,60.7,104.0,8.5,6.0,6.67
+Tamil Nadu,Cotton,Sandy,Canal,430.4,30.5,66.8,36.1,203.7,8.5,0.6,5.11
+Karnataka,Wheat,Sandy,Canal,1105.6,37.6,90.6,56.9,112.1,3.9,4.2,5.09
+West Bengal,Rice,Red Soil,Drip,689.1,29.5,52.3,39.8,120.9,7.7,2.8,5.16
+Punjab,Groundnut,Loamy,Canal,952.7,28.2,61.4,49.3,68.9,8.0,2.9,6.33
+Andhra Pradesh,Maize,Sandy,Canal,553.5,26.6,72.7,41.5,148.2,4.1,1.6,5.19
+Andhra Pradesh,Cotton,Red Soil,Drip,580.1,28.9,82.0,33.0,82.6,9.7,3.1,5.01
+West Bengal,Wheat,Black Soil,Sprinkler,925.7,25.7,75.9,49.8,133.4,8.2,1.5,6.18
+West Bengal,Sugarcane,Red Soil,Drip,355.7,30.0,67.0,17.8,143.4,14.0,3.0,5.91
+Andhra Pradesh,Rice,Sandy,Rainfed,997.7,22.3,62.3,46.3,118.3,6.9,5.6,5.05
+Andhra Pradesh,Wheat,Black Soil,Drip,1057.2,27.0,82.1,54.7,176.5,10.4,4.6,7.31
+Karnataka,Sugarcane,Red Soil,Rainfed,819.1,30.9,77.2,52.2,93.6,8.6,6.9,5.1
+Maharashtra,Wheat,Clay,Sprinkler,811.2,29.5,57.5,48.1,173.6,12.8,4.4,5.94
+Punjab,Cotton,Black Soil,Drip,596.6,26.1,57.1,31.6,70.5,4.1,3.8,5.34
+Tamil Nadu,Cotton,Clay,Drip,928.4,27.1,61.5,54.4,143.0,5.5,4.5,6.44
+Maharashtra,Cotton,Loamy,Sprinkler,856.5,32.1,59.9,39.6,110.0,4.2,2.1,5.53
+West Bengal,Groundnut,Black Soil,Rainfed,577.3,23.2,80.4,43.1,90.2,6.8,0.0,4.96
+Andhra Pradesh,Groundnut,Clay,Drip,693.9,23.2,73.2,35.7,56.9,3.6,4.9,4.81
+Maharashtra,Rice,Sandy,Rainfed,744.9,24.3,74.7,39.0,105.9,2.4,0.3,4.84
+Punjab,Cotton,Sandy,Drip,693.6,28.0,70.3,36.6,103.7,0.6,5.5,4.01
+West Bengal,Sugarcane,Loamy,Canal,480.2,22.6,70.9,37.8,121.1,0.4,4.9,4.45
+Tamil Nadu,Wheat,Black Soil,Drip,933.8,31.8,49.0,47.2,140.4,9.0,2.0,6.94
+Tamil Nadu,Maize,Black Soil,Sprinkler,726.4,24.3,77.5,46.2,86.7,5.6,2.7,5.47
+Punjab,Sugarcane,Black Soil,Sprinkler,783.4,28.9,61.2,44.5,176.5,3.3,3.5,6.25
+Punjab,Groundnut,Loamy,Rainfed,652.8,25.7,67.6,32.2,96.2,5.0,1.8,4.92
+Andhra Pradesh,Groundnut,Black Soil,Drip,884.6,27.7,62.3,48.8,136.1,5.4,4.5,5.6
+Tamil Nadu,Sugarcane,Sandy,Rainfed,823.7,21.6,69.8,35.0,118.2,4.1,4.6,4.54
+West Bengal,Groundnut,Clay,Rainfed,1046.8,32.0,74.9,45.9,108.0,11.8,0.9,6.23
+Maharashtra,Cotton,Sandy,Canal,885.7,24.2,55.9,45.0,116.4,11.3,2.0,4.95
+West Bengal,Rice,Sandy,Canal,735.4,23.7,71.0,40.8,82.1,11.8,3.4,4.78
+Karnataka,Wheat,Clay,Sprinkler,617.3,37.5,62.6,30.5,101.4,7.5,5.6,4.03
+Karnataka,Rice,Sandy,Rainfed,970.5,30.2,83.9,57.5,68.1,7.8,4.7,4.78
+Punjab,Wheat,Loamy,Sprinkler,717.8,31.8,54.6,52.8,95.8,5.0,0.0,6.19
+Andhra Pradesh,Wheat,Clay,Drip,742.2,29.8,56.0,57.1,98.7,4.5,3.0,5.57
+Karnataka,Rice,Sandy,Rainfed,742.2,26.2,63.7,50.4,144.6,7.1,4.4,5.53
+Tamil Nadu,Sugarcane,Red Soil,Rainfed,,22.8,56.9,39.9,103.4,9.0,2.1,5.45
+West Bengal,Wheat,Sandy,Drip,746.0,26.8,65.3,41.2,99.3,10.6,1.9,5.57
+West Bengal,Rice,Loamy,Drip,1203.8,24.1,61.7,52.3,122.7,5.4,2.2,7.58
+Punjab,Wheat,Black Soil,Sprinkler,549.5,24.3,69.1,50.7,121.3,3.2,2.9,5.07
+Maharashtra,Maize,Sandy,Sprinkler,600.8,21.7,80.1,39.3,94.3,9.2,1.7,5.17
+Punjab,Sugarcane,Black Soil,Drip,1084.6,28.5,68.9,59.7,128.8,1.5,4.7,6.97
+Maharashtra,Cotton,Red Soil,Sprinkler,697.5,34.3,69.9,49.6,108.7,6.9,2.0,5.05
+Punjab,Wheat,Sandy,Drip,680.9,30.2,55.3,43.2,94.3,7.3,1.6,5.64
+Punjab,Maize,Clay,Rainfed,1007.7,27.6,66.4,41.5,97.7,5.9,2.8,5.63
+Punjab,Cotton,Black Soil,Rainfed,467.6,27.8,62.9,36.1,148.2,2.4,6.2,4.45
+Maharashtra,Cotton,Red Soil,Canal,960.7,18.0,76.2,49.9,98.7,5.9,4.4,5.06
+Maharashtra,Wheat,Clay,Rainfed,790.0,26.3,58.8,52.4,124.1,11.9,4.6,5.56
+Punjab,Rice,Clay,Drip,882.3,22.3,57.7,47.2,70.1,8.8,4.0,5.91
+Karnataka,Wheat,Clay,Sprinkler,878.1,28.5,71.8,39.7,154.0,10.5,1.8,6.72
+Andhra Pradesh,Maize,Clay,Canal,641.8,27.0,91.8,47.0,94.6,3.3,2.3,4.62
+Andhra Pradesh,Cotton,Sandy,Sprinkler,1011.3,24.5,65.9,48.9,129.0,7.8,2.0,6.1
+Andhra Pradesh,Wheat,Sandy,Drip,659.0,28.4,70.0,26.2,106.2,7.3,5.5,3.97
+Maharashtra,Rice,Sandy,Rainfed,869.9,28.4,79.4,48.7,128.6,7.3,4.0,4.89
+Maharashtra,Wheat,Red Soil,Canal,1052.3,34.1,74.1,54.3,130.5,8.7,0.5,6.5
+Karnataka,Sugarcane,Red Soil,Drip,1083.4,30.7,74.2,47.0,109.9,7.4,6.1,5.55
+Andhra Pradesh,Rice,Red Soil,Canal,721.2,28.9,66.9,41.9,49.7,3.4,2.9,5.03
+Andhra Pradesh,Maize,Loamy,Canal,881.9,24.2,67.1,51.0,153.2,8.8,4.7,5.83
+Punjab,Cotton,Red Soil,Rainfed,700.9,23.7,58.9,44.5,110.1,9.5,5.4,4.42
+Maharashtra,Wheat,Sandy,Drip,1330.8,30.4,73.8,48.9,127.9,11.0,0.0,6.61
+Andhra Pradesh,Rice,Sandy,Sprinkler,951.6,27.2,73.6,56.3,139.2,11.1,4.3,5.84
+West Bengal,Sugarcane,Loamy,Canal,798.5,29.0,76.6,55.2,99.0,8.4,3.0,5.89
+Karnataka,Rice,Loamy,Canal,848.8,31.9,62.1,43.2,133.1,3.6,0.0,6.94
+West Bengal,Groundnut,Red Soil,Sprinkler,869.6,21.9,78.0,35.3,88.8,2.4,1.5,4.94
+West Bengal,Sugarcane,Black Soil,Drip,876.1,33.6,81.6,51.5,128.6,6.3,2.7,6.23
+Karnataka,Maize,Loamy,Canal,,31.9,53.4,39.1,115.7,9.8,5.0,5.36
+West Bengal,Cotton,Clay,Canal,693.2,19.8,64.4,45.5,100.2,9.6,3.2,5.3
+Andhra Pradesh,Maize,Sandy,Canal,746.6,37.4,82.1,56.9,116.6,7.8,3.8,5.06
+Maharashtra,Wheat,Clay,Drip,529.3,29.3,60.2,29.0,78.1,6.9,2.9,4.4
+Karnataka,Rice,Sandy,Drip,938.0,26.1,74.3,43.7,125.8,12.7,5.5,5.65
+Punjab,Groundnut,Sandy,Sprinkler,603.6,30.1,68.1,38.9,129.4,8.7,4.4,5.34
+West Bengal,Sugarcane,Loamy,Drip,546.8,24.1,72.0,46.4,127.1,6.7,3.8,5.5
+Karnataka,Sugarcane,Loamy,Drip,776.8,30.2,68.5,65.8,167.6,5.1,1.4,6.4
+Tamil Nadu,Rice,Clay,Rainfed,751.4,24.8,77.0,45.3,111.7,4.0,3.7,5.04
+Tamil Nadu,Groundnut,Sandy,Sprinkler,834.9,36.1,55.7,36.1,114.1,3.7,8.5,3.53
+Maharashtra,Rice,Clay,Canal,655.0,28.2,57.0,39.3,74.0,4.0,4.9,4.58
+Andhra Pradesh,Wheat,Black Soil,Drip,693.6,30.6,85.6,37.7,170.0,7.8,2.2,5.68
+Maharashtra,Maize,Clay,Canal,932.3,24.9,93.2,52.6,62.6,6.9,6.8,4.9

@@ -455,7 +455,7 @@ as regions below the overall regional mean in the demonstrated analysis.
 
 ------------------------------------------------------------------------
 
-# 🌟 Advantages of AgroDetect AI
+# Advantages of AgroDetect AI
 
 ## 1. Natural-Language Interaction
 

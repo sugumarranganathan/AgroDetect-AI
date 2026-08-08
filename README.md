@@ -278,7 +278,7 @@ fertilizer columns in the current dataset.
 
 ------------------------------------------------------------------------
 
-|  # | Traditional Analysis                      | AgroDetect AI                                             |
+|    | Traditional Analysis                      | AgroDetect AI                                             |
 | -: | ----------------------------------------- | --------------------------------------------------------- |
 |  1 | User writes analysis code                 | **Coding Agent generates analysis code**                  |
 |  2 | Manual data/tool selection                | **MCP provides the required tools**                       |

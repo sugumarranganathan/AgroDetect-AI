@@ -19,7 +19,7 @@ final report.
 
 ------------------------------------------------------------------------
 
-# 📌 Problem Statement
+# Problem Statement
 
 Agricultural datasets contain many interconnected factors such as crop
 type, region, soil type, rainfall, temperature, soil moisture,
@@ -61,7 +61,7 @@ visualizations, and returns an understandable answer.
 
 ------------------------------------------------------------------------
 
-# 🎯 Project Objective
+# Project Objective
 
 The main objective is to build an **autonomous agricultural data
 analyst** that can:
@@ -568,7 +568,7 @@ Google Colab
 
 ------------------------------------------------------------------------
 
-# 🚀 Installation
+# Installation
 
 Run in Google Colab:
 
@@ -625,55 +625,7 @@ AgroDetect-AI/
 └── README.md
 ```
 
-------------------------------------------------------------------------
 
-# ▶️ How to Run
-
-### Step 1
-
-Open `AgroDetect_AI.ipynb` in Google Colab.
-
-### Step 2
-
-Configure the `GROQ_API_KEY` secret.
-
-### Step 3
-
-Install the required packages.
-
-### Step 4
-
-Upload:
-
-``` text
-agricultural.csv
-```
-
-### Step 5
-
-Run the MCP server and register the agricultural tools.
-
-### Step 6
-
-Run the LangGraph workflow.
-
-### Step 7
-
-Launch the Gradio interface.
-
-### Step 8
-
-Ask an agricultural question in natural language.
-
-------------------------------------------------------------------------
-
-# 💬 Example End-to-End Interaction
-
-### User
-
-``` text
-Why is crop yield lower in some regions?
-```
 
 ### AgroDetect AI
 
@@ -703,63 +655,8 @@ The final response contains:
 
 ------------------------------------------------------------------------
 
-# 🔐 Limitations
 
-### 1. Synthetic Dataset
-
-The current dataset is a demonstration dataset and should not be treated
-as real agricultural statistics.
-
-### 2. Correlation Is Not Causation
-
-A correlation between rainfall and crop yield does not prove that
-rainfall alone caused the observed yield difference.
-
-### 3. Dataset Scope
-
-The current dataset contains only the variables included in the
-12-column demo dataset.
-
-### 4. Data Quality
-
-The current dataset contains missing values that can affect analysis.
-
-### 5. LLM-Generated Code
-
-Generated code should be validated before use in production
-environments.
-
-### 6. Production Security
-
-The prototype executes generated Python inside the Colab environment. A
-production implementation should use a properly isolated/sandboxed
-execution environment with strict security controls.
-
-------------------------------------------------------------------------
-
-# 🔮 Future Enhancements
-
-Potential future additions include:
-
--   Real agricultural datasets
--   Weather API integration through MCP
--   Soil database integration
--   Satellite imagery analysis
--   Crop disease detection
--   Yield forecasting as an optional module
--   More dynamic visualization selection
--   Agricultural recommendation engine
--   Voice-based agricultural assistant
--   Multilingual support
--   Farmer-specific dashboards
--   Secure sandboxed code execution
--   Cloud deployment
--   Historical trend analysis
--   Advanced ML models
-
-------------------------------------------------------------------------
-
-# 🎓 Academic / Project Value
+# Project Value
 
 AgroDetect AI demonstrates the integration of several modern AI concepts
 in one practical application:
@@ -824,9 +721,3 @@ workflow**.
 **Development:** Google Colab
 
 ------------------------------------------------------------------------
-
-## ⚠️ Important Note
-
-AgroDetect AI is an analytical demonstration system. Its findings should
-be treated as data-driven insights from the supplied dataset, not as
-professional agricultural, agronomic, or scientific advice.

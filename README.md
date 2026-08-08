@@ -523,8 +523,6 @@ project easier to extend.
 
 # 🆚 Traditional Analysis vs AgroDetect AI
 
-🆚 Traditional Analysis vs AgroDetect AI
-
 Traditional Approach              AgroDetect AI
 ---------------------------------------------------------------
 User writes analysis code         Coding Agent generates code
@@ -535,15 +533,6 @@ Manual interpretation             Root-Cause Agent interprets patterns
 Manual report writing             Report Agent creates report
 Technical knowledge required      Natural-language questions
   Traditional Approach           AgroDetect AI
-  ------------------------------ --------------------------------------
-  User writes analysis code      Coding Agent generates code
-  Manual tool selection          MCP tools provide capabilities
-  Manual debugging               Debugging Agent can recover
-  Manual chart creation          Visualization Agent creates charts
-  Manual interpretation          Root-Cause Agent interprets patterns
-  Manual report writing          Report Agent creates report
-  Technical knowledge required   Natural-language questions
-
 ------------------------------------------------------------------------
 
 # 🛠️ Technology Stack

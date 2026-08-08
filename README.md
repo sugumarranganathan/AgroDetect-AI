@@ -278,6 +278,21 @@ fertilizer columns in the current dataset.
 
 ------------------------------------------------------------------------
 
+|  # | Traditional Analysis                      | AgroDetect AI                                             |
+| -: | ----------------------------------------- | --------------------------------------------------------- |
+|  1 | User writes analysis code                 | **Coding Agent generates analysis code**                  |
+|  2 | Manual data/tool selection                | **MCP provides the required tools**                       |
+|  3 | User manually analyzes the dataset        | **Data Analyst Agent analyzes the data**                  |
+|  4 | Manual debugging of coding errors         | **Debugging Agent identifies and corrects errors**        |
+|  5 | User decides every analysis step          | **Planner Agent creates the investigation plan**          |
+|  6 | Manual chart creation                     | **Visualization Agent creates charts automatically**      |
+|  7 | Manual interpretation of results          | **Root-Cause Agent interprets potential factors**         |
+|  8 | Manual report preparation                 | **Report Agent generates the final report**               |
+|  9 | Requires Python/data-analysis knowledge   | **User asks questions in natural language**               |
+| 10 | Multiple manual steps from data to answer | **Autonomous workflow from question → analysis → answer** |
+
+------------------------------------------------------------------------
+
 # 🔍 Types of Questions
 
 The Gradio interface is designed for natural-language questions.

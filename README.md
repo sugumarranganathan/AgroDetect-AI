@@ -524,7 +524,7 @@ project easier to extend.
  🆚 Traditional Analysis vs AgroDetect AI
 
 Traditional Approach              AgroDetect AI
----------------------------------------------------------------
+
 User writes analysis code         Coding Agent generates code
 Manual tool selection             MCP tools provide capabilities
 Manual debugging                  Debugging Agent can recover
